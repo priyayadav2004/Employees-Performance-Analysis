@@ -1,0 +1,1545 @@
+Age,Attrition,Department,EmployeeNumber,Gender,JobRole,YearsAtCompany,MonthlyIncome,PerformanceRating
+50.0,NO,RESEARCH & DEVELOPMENT,1539.0,MALE,RESEARCH DIRECTOR,,14411.0,3.0
+31.0,NAN,RESEARCH & DEVELOPMENT,,MALE, research director ,2.0,13675.0,
+,NO, sales ,481.0,MALE,SALES EXECUTIVE,,9699.0,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,1195.0, female , research scientist ,,,3.0
+29.0, yes , research & development ,1421.0, female , healthcare representative ,,7553.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,373.0, male , laboratory technician ,15.0,3210.0,3.0
+44.0, no , research & development ,1206.0, male ,RESEARCH SCIENTIST,0.0,2290.0,3.0
+51.0,NAN,SALES,1282.0,MALE,MANAGER,29.0,19847.0,4.0
+36.0, no ,SALES,513.0, male ,SALES EXECUTIVE,10.0,,3.0
+42.0,NO, research & development ,, female , laboratory technician ,12.0,3673.0,3.0
+42.0,NO,RESEARCH & DEVELOPMENT,1547.0,MALE, healthcare representative ,20.0,10124.0,3.0
+24.0,NO, research & development ,812.0, male ,LABORATORY TECHNICIAN,,,3.0
+51.0,NO,NAN,353.0, male , research scientist ,1.0,,3.0
+36.0, no , research & development ,83.0,FEMALE,HEALTHCARE REPRESENTATIVE,,10096.0,3.0
+53.0, no , research & development ,730.0,NAN,RESEARCH DIRECTOR,5.0,14814.0,3.0
+34.0,NO, research & development ,153.0, female ,MANAGER,11.0,11631.0,3.0
+45.0,NO,RESEARCH & DEVELOPMENT,372.0,MALE, healthcare representative ,20.0,13496.0,3.0
+40.0,YES,RESEARCH & DEVELOPMENT,1534.0,MALE, laboratory technician ,5.0,2018.0,3.0
+47.0,NO,RESEARCH & DEVELOPMENT,2000.0, female ,RESEARCH DIRECTOR,,11957.0,3.0
+19.0,NO,RESEARCH & DEVELOPMENT,1193.0, male ,RESEARCH SCIENTIST,1.0,2552.0,4.0
+37.0,NO, research & development ,1640.0,FEMALE, research scientist ,8.0,3936.0,3.0
+46.0, no , sales ,1280.0,FEMALE,MANAGER,11.0,18789.0,3.0
+43.0, nan ,RESEARCH & DEVELOPMENT,,MALE,RESEARCH DIRECTOR,4.0,17159.0,
+19.0,YES,NAN,1248.0,FEMALE,RESEARCH SCIENTIST,1.0,1859.0,
+27.0, yes , human resources ,1944.0, nan , human resources ,1.0,2863.0,3.0
+26.0, no , nan ,1836.0, male ,NAN,5.0,4684.0,
+57.0, no ,NAN,1483.0,MALE,RESEARCH SCIENTIST,,4900.0,4.0
+31.0, yes , research & development ,587.0, male , healthcare representative ,,9824.0,
+55.0,YES, sales ,1372.0, male ,SALES EXECUTIVE,19.0,13695.0,3.0
+30.0, no , sales ,456.0, female ,SALES EXECUTIVE,10.0,6118.0,3.0
+30.0, yes ,NAN,1017.0,NAN,LABORATORY TECHNICIAN,3.0,2422.0,3.0
+56.0,YES, research & development ,161.0, female , research scientist ,5.0,4963.0,3.0
+53.0,NO, sales ,23.0,FEMALE,MANAGER,25.0,15427.0,3.0
+25.0, yes ,RESEARCH & DEVELOPMENT,1106.0,NAN, nan ,,3691.0,3.0
+27.0,NO, sales ,1364.0, female ,SALES REPRESENTATIVE,1.0,2534.0,3.0
+56.0, no ,RESEARCH & DEVELOPMENT,1441.0,FEMALE,RESEARCH SCIENTIST,3.0,2066.0,4.0
+54.0,NAN, research & development ,1969.0, female ,RESEARCH SCIENTIST,4.0,2897.0,3.0
+,NO,NAN,905.0, male , manager ,31.0,17924.0,3.0
+27.0, no , research & development ,1648.0, male , research scientist ,4.0,2580.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,, male , nan ,7.0,2718.0,
+38.0,NO, sales ,1583.0, nan , sales executive ,3.0,4198.0,3.0
+27.0,NO,SALES,714.0,FEMALE,SALES EXECUTIVE,6.0,4647.0,4.0
+32.0,NO,RESEARCH & DEVELOPMENT,1607.0, nan ,RESEARCH SCIENTIST,3.0,3312.0,3.0
+34.0, yes ,HUMAN RESOURCES,590.0, female ,HUMAN RESOURCES,3.0,9950.0,3.0
+37.0, nan , research & development ,139.0,MALE, nan ,1.0,5163.0,3.0
+,NO, research & development ,517.0,FEMALE, laboratory technician ,5.0,2576.0,3.0
+34.0, no , research & development ,256.0, male , manufacturing director ,,9547.0,3.0
+,NO, research & development ,1635.0, female ,MANUFACTURING DIRECTOR,10.0,5770.0,3.0
+55.0,NO, research & development ,1074.0, male ,MANAGER,9.0,16756.0,3.0
+, yes ,SALES,1928.0, male , sales representative ,,1091.0,3.0
+34.0, no ,RESEARCH & DEVELOPMENT,151.0, female ,NAN,1.0,4505.0,3.0
+41.0, nan , research & development ,227.0, male , research scientist ,9.0,2451.0,3.0
+23.0, no , research & development ,1592.0,MALE,RESEARCH SCIENTIST,2.0,2073.0,3.0
+60.0, no , sales ,573.0, female , sales executive ,18.0,10266.0,3.0
+37.0,NO, research & development ,306.0, male ,RESEARCH DIRECTOR,10.0,12185.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,105.0,MALE,RESEARCH SCIENTIST,6.0,2859.0,3.0
+, no ,SALES,458.0,FEMALE, sales executive ,8.0,6214.0,3.0
+31.0,YES,SALES,650.0, male ,SALES EXECUTIVE,3.0,4233.0,3.0
+30.0,NO,SALES,1479.0,MALE, sales executive ,2.0,5301.0,3.0
+30.0, no , research & development ,159.0,MALE,RESEARCH SCIENTIST,10.0,2613.0,4.0
+39.0, no ,RESEARCH & DEVELOPMENT,721.0, female ,HEALTHCARE REPRESENTATIVE,20.0,4553.0,3.0
+47.0,NO,SALES,903.0, female ,SALES EXECUTIVE,7.0,,4.0
+28.0, no , research & development ,536.0, male ,NAN,10.0,4558.0,3.0
+33.0,NAN,SALES,1268.0,MALE, sales executive ,,8380.0,3.0
+30.0, no , research & development ,680.0, female ,RESEARCH SCIENTIST,,,
+32.0,NO, research & development ,1234.0,FEMALE,LABORATORY TECHNICIAN,,2743.0,4.0
+33.0,YES,RESEARCH & DEVELOPMENT,,FEMALE,RESEARCH SCIENTIST,13.0,4508.0,4.0
+37.0,NO,RESEARCH & DEVELOPMENT,,MALE, research scientist ,1.0,3022.0,4.0
+30.0, nan , sales ,648.0, male , sales representative ,1.0,2033.0,3.0
+40.0,NO, human resources ,,MALE, manager ,21.0,16437.0,4.0
+32.0,YES, research & development ,1692.0,MALE,LABORATORY TECHNICIAN,1.0,1393.0,3.0
+47.0, no , research & development ,1443.0, female , research director ,20.0,17169.0,3.0
+20.0, no , research & development ,,NAN,LABORATORY TECHNICIAN,2.0,3033.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,966.0, female ,MANUFACTURING DIRECTOR,8.0,6725.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,464.0, male , manufacturing director ,16.0,8095.0,3.0
+, no , sales ,479.0, female , sales executive ,1.0,6653.0,3.0
+30.0,NAN, human resources ,1747.0, female ,HUMAN RESOURCES,4.0,2180.0,3.0
+35.0, no , research & development ,1564.0, male ,LABORATORY TECHNICIAN,3.0,2450.0,3.0
+33.0,NO, sales ,855.0, male ,SALES EXECUTIVE,9.0,4037.0,
+47.0,NO,SALES,1676.0,FEMALE, manager ,,15972.0,3.0
+36.0,NO, human resources ,1890.0,MALE,HUMAN RESOURCES,10.0,,4.0
+36.0, no ,RESEARCH & DEVELOPMENT,1435.0,MALE,LABORATORY TECHNICIAN,,,3.0
+32.0,NO,RESEARCH & DEVELOPMENT,362.0, male , laboratory technician ,6.0,2176.0,3.0
+51.0, yes ,RESEARCH & DEVELOPMENT,1081.0, male ,RESEARCH SCIENTIST,10.0,2461.0,3.0
+46.0, no ,SALES,1863.0,FEMALE,SALES EXECUTIVE,19.0,13225.0,3.0
+30.0,NO, research & development ,1745.0, nan , research scientist ,9.0,4968.0,
+30.0,NO, nan ,861.0, nan ,RESEARCH SCIENTIST,5.0,3761.0,3.0
+44.0,YES,RESEARCH & DEVELOPMENT,1295.0,FEMALE,HEALTHCARE REPRESENTATIVE,10.0,7978.0,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,1615.0, male ,MANUFACTURING DIRECTOR,9.0,4724.0,3.0
+48.0,NO, research & development ,1576.0,FEMALE, research scientist ,8.0,2367.0,
+46.0, no ,SALES,1602.0, male , manager ,26.0,17567.0,3.0
+36.0, no ,SALES,1585.0, female , nan ,1.0,6815.0,3.0
+32.0,NO, research & development ,96.0,MALE,NAN,10.0,6220.0,
+29.0, no , research & development ,1202.0, female ,RESEARCH SCIENTIST,5.0,2168.0,3.0
+49.0, no ,RESEARCH & DEVELOPMENT,275.0, male ,MANUFACTURING DIRECTOR,7.0,6804.0,3.0
+38.0,NO, research & development ,245.0, female , laboratory technician ,2.0,2288.0,3.0
+38.0,NO,NAN,107.0, female , research scientist ,13.0,5329.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,850.0, male , research scientist ,,1706.0,3.0
+33.0,YES,RESEARCH & DEVELOPMENT,584.0,MALE, laboratory technician ,4.0,3408.0,3.0
+52.0,NO, research & development ,,FEMALE, manager ,5.0,16555.0,
+49.0, no , research & development ,396.0,FEMALE, research director ,3.0,18665.0,3.0
+55.0, nan ,RESEARCH & DEVELOPMENT,, male ,RESEARCH SCIENTIST,5.0,2662.0,4.0
+32.0,NO,RESEARCH & DEVELOPMENT,727.0, female ,RESEARCH DIRECTOR,7.0,11159.0,3.0
+43.0, no , sales ,1706.0,MALE,SALES EXECUTIVE,10.0,7847.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,2062.0, male , healthcare representative ,7.0,9991.0,3.0
+24.0, yes , research & development ,1219.0,FEMALE, laboratory technician ,1.0,2210.0,3.0
+29.0,NO, nan ,455.0, male ,NAN,,3983.0,3.0
+34.0, nan ,SALES,1950.0, nan , sales executive ,14.0,9888.0,4.0
+38.0,NO,RESEARCH & DEVELOPMENT,1668.0, male , research scientist ,13.0,4735.0,3.0
+22.0,NAN,RESEARCH & DEVELOPMENT,1783.0, female , laboratory technician ,1.0,,3.0
+, yes , research & development ,165.0, female ,HEALTHCARE REPRESENTATIVE,40.0,10312.0,3.0
+59.0,NO,SALES,81.0,NAN, sales executive ,21.0,7637.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,178.0, male , manufacturing director ,3.0,4941.0,4.0
+30.0,NAN,RESEARCH & DEVELOPMENT,57.0,NAN, laboratory technician ,12.0,4011.0,
+33.0,YES, sales ,1157.0,FEMALE,SALES EXECUTIVE,5.0,8224.0,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,1340.0,MALE, research scientist ,4.0,3544.0,3.0
+42.0, no ,RESEARCH & DEVELOPMENT,1998.0,MALE, research scientist ,,5410.0,3.0
+35.0,NO, research & development ,496.0,MALE, healthcare representative ,1.0,6540.0,3.0
+,NO, sales ,2046.0,FEMALE, sales executive ,5.0,4850.0,3.0
+21.0,NO,SALES,484.0, male ,SALES REPRESENTATIVE,3.0,2610.0,4.0
+57.0,NO,NAN,568.0, male , manager ,1.0,14118.0,
+37.0,NO,RESEARCH & DEVELOPMENT,1411.0,NAN, nan ,3.0,3629.0,3.0
+43.0, no ,NAN,526.0,FEMALE,HEALTHCARE REPRESENTATIVE,,,3.0
+23.0, nan ,RESEARCH & DEVELOPMENT,1735.0, female ,LABORATORY TECHNICIAN,3.0,,3.0
+,NO, sales ,789.0,MALE, sales executive ,10.0,7587.0,3.0
+40.0, no , research & development ,1724.0, nan , nan ,1.0,6516.0,3.0
+40.0,NO, research & development ,352.0,MALE, research director ,21.0,19436.0,3.0
+58.0,YES, research & development ,977.0,NAN,RESEARCH SCIENTIST,1.0,2479.0,
+38.0, no , sales ,230.0,FEMALE,SALES EXECUTIVE,8.0,,4.0
+33.0,NO, sales ,1220.0, nan ,NAN,10.0,4539.0,
+51.0, yes ,RESEARCH & DEVELOPMENT,1081.0, male ,RESEARCH SCIENTIST,10.0,2461.0,3.0
+44.0,NO, research & development ,1288.0, male , manager ,25.0,19190.0,3.0
+33.0, no , research & development ,1099.0, male , healthcare representative ,3.0,7119.0,3.0
+, no ,HUMAN RESOURCES,470.0, male , human resources ,3.0,2696.0,3.0
+42.0,NO,RESEARCH & DEVELOPMENT,836.0, male ,MANUFACTURING DIRECTOR,9.0,4434.0,3.0
+33.0, nan , research & development ,939.0,MALE,RESEARCH SCIENTIST,3.0,2799.0,3.0
+50.0,NO, nan ,569.0,MALE, manager ,27.0,17046.0,
+29.0,NO, research & development ,,FEMALE, research scientist ,7.0,2514.0,4.0
+51.0,NO,SALES,851.0,FEMALE, manager ,20.0,16307.0,3.0
+46.0,NO, research & development ,575.0, male ,RESEARCH DIRECTOR,3.0,17861.0,3.0
+21.0,YES,RESEARCH & DEVELOPMENT,923.0,NAN,RESEARCH SCIENTIST,1.0,2693.0,3.0
+42.0,NO, sales ,35.0,MALE, sales executive ,9.0,6825.0,3.0
+34.0,NAN, research & development ,1265.0, female ,NAN,1.0,2585.0,3.0
+56.0,YES, research & development ,161.0, female , research scientist ,5.0,4963.0,3.0
+34.0, no , sales ,1779.0,FEMALE, sales executive ,2.0,6029.0,3.0
+36.0, no , research & development ,1949.0, male ,LABORATORY TECHNICIAN,,2810.0,4.0
+42.0,NO, research & development ,1595.0, nan ,MANAGER,1.0,,4.0
+39.0,NO,RESEARCH & DEVELOPMENT,2022.0,MALE,MANAGER,6.0,,3.0
+47.0, no ,RESEARCH & DEVELOPMENT,574.0, female , manufacturing director ,,5070.0,3.0
+36.0,NO, human resources ,829.0, male , human resources ,,2143.0,3.0
+41.0,NO, sales ,1708.0,MALE, sales executive ,10.0,9241.0,3.0
+, no , nan ,1307.0, female , manager ,19.0,17123.0,3.0
+,NAN, research & development ,63.0,MALE, laboratory technician ,1.0,2269.0,3.0
+28.0, no , research & development ,1834.0,NAN,NAN,,3591.0,4.0
+26.0,NO,RESEARCH & DEVELOPMENT,384.0,FEMALE,MANUFACTURING DIRECTOR,6.0,6397.0,4.0
+55.0,NO,RESEARCH & DEVELOPMENT,84.0,FEMALE, manager ,5.0,14756.0,3.0
+33.0, nan , research & development ,428.0, nan ,MANAGER,10.0,11878.0,
+30.0,NAN, research & development ,1084.0,MALE, manufacturing director ,6.0,9957.0,3.0
+59.0,NO,HUMAN RESOURCES,140.0,FEMALE, manager ,3.0,18844.0,4.0
+54.0,NO,RESEARCH & DEVELOPMENT,522.0,MALE, nan ,4.0,19406.0,3.0
+, yes ,SALES,1457.0,MALE,SALES EXECUTIVE,7.0,10096.0,3.0
+22.0,YES, nan ,926.0, female , manufacturing director ,3.0,4171.0,3.0
+42.0,NO, research & development ,2031.0, nan , manager ,22.0,,3.0
+43.0,NO, nan ,,MALE, manager ,25.0,16959.0,3.0
+47.0, no ,SALES,1503.0, female , sales executive ,5.0,4591.0,3.0
+44.0,NO,RESEARCH & DEVELOPMENT,132.0, male , laboratory technician ,3.0,2042.0,3.0
+44.0, no , nan ,1039.0, female ,SALES EXECUTIVE,12.0,13320.0,3.0
+50.0, no , sales ,1591.0, male ,MANAGER,1.0,19331.0,3.0
+40.0, no ,SALES,954.0, male ,SALES EXECUTIVE,1.0,9705.0,3.0
+43.0,NO, research & development ,46.0, female , research scientist ,5.0,2645.0,3.0
+44.0, yes , research & development ,1333.0,MALE, laboratory technician ,3.0,2362.0,3.0
+30.0, nan , research & development ,194.0,FEMALE,RESEARCH SCIENTIST,5.0,,3.0
+43.0,NO,RESEARCH & DEVELOPMENT,448.0, female ,LABORATORY TECHNICIAN,9.0,5257.0,3.0
+53.0, no ,RESEARCH & DEVELOPMENT,32.0, female , manager ,14.0,19094.0,3.0
+,NAN,SALES,653.0, male , sales executive ,7.0,5460.0,4.0
+37.0,YES,HUMAN RESOURCES,133.0, male ,HUMAN RESOURCES,3.0,2073.0,4.0
+46.0,NO, sales ,1801.0,MALE,SALES EXECUTIVE,2.0,7991.0,3.0
+34.0, no , sales ,1163.0,FEMALE,SALES EXECUTIVE,6.0,5714.0,4.0
+36.0,NAN, research & development ,742.0,FEMALE,RESEARCH DIRECTOR,8.0,11713.0,3.0
+51.0,NO, research & development ,1367.0,FEMALE, manufacturing director ,5.0,13142.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,1590.0,MALE,NAN,6.0,8853.0,3.0
+50.0, no ,RESEARCH & DEVELOPMENT,385.0,MALE, research director ,10.0,19144.0,3.0
+59.0,NO,RESEARCH & DEVELOPMENT,1283.0, male , nan ,9.0,10512.0,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,202.0,FEMALE,RESEARCH SCIENTIST,20.0,5605.0,3.0
+37.0, no ,SALES,1787.0,MALE, sales executive ,5.0,4189.0,3.0
+33.0,NO,RESEARCH & DEVELOPMENT,, female , research director ,15.0,13458.0,3.0
+36.0,NO, nan ,397.0,MALE, research scientist ,8.0,4485.0,
+33.0, nan , research & development ,252.0,FEMALE,RESEARCH SCIENTIST,8.0,2756.0,3.0
+33.0,NAN,NAN,446.0, male , sales executive ,7.0,4682.0,3.0
+, yes , research & development ,881.0, female , research scientist ,10.0,2022.0,3.0
+33.0, no ,RESEARCH & DEVELOPMENT,242.0,MALE,NAN,3.0,,
+30.0, yes ,NAN,1017.0,NAN,LABORATORY TECHNICIAN,3.0,2422.0,3.0
+34.0,NO, research & development ,28.0, female ,RESEARCH DIRECTOR,12.0,11994.0,3.0
+22.0, yes , research & development ,1203.0,MALE, research scientist ,,2853.0,3.0
+35.0,YES,RESEARCH & DEVELOPMENT,261.0, male ,MANUFACTURING DIRECTOR,1.0,5916.0,3.0
+54.0,NO, research & development ,1830.0,FEMALE,RESEARCH SCIENTIST,7.0,6854.0,3.0
+45.0, no , sales ,606.0, nan ,SALES EXECUTIVE,8.0,4805.0,3.0
+43.0,YES,SALES,1188.0, female , sales executive ,4.0,5346.0,3.0
+54.0, no , research & development ,1013.0, female , manufacturing director ,10.0,10739.0,3.0
+25.0,NO, sales ,645.0,MALE,SALES REPRESENTATIVE,7.0,2096.0,3.0
+54.0,NO,HUMAN RESOURCES,148.0, female , manager ,5.0,,3.0
+25.0, yes ,SALES,142.0,MALE,SALES EXECUTIVE,6.0,5744.0,3.0
+40.0, no , research & development ,763.0, female , research scientist ,4.0,2342.0,4.0
+34.0,NAN,RESEARCH & DEVELOPMENT,2068.0, male ,LABORATORY TECHNICIAN,4.0,4404.0,3.0
+36.0,NO, human resources ,829.0, male , human resources ,,2143.0,3.0
+47.0, no , research & development ,1934.0,NAN,RESEARCH SCIENTIST,8.0,5467.0,3.0
+42.0,NO,SALES,387.0,MALE, nan ,20.0,4907.0,4.0
+41.0, no , sales ,410.0, male , manager ,22.0,16015.0,3.0
+33.0,NO, sales ,1395.0,MALE, nan ,5.0,9998.0,3.0
+42.0, no , research & development ,270.0, female ,MANUFACTURING DIRECTOR,5.0,5265.0,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,1719.0,FEMALE, nan ,21.0,,3.0
+50.0, no ,HUMAN RESOURCES,644.0,MALE, manager ,32.0,18200.0,3.0
+29.0,NO, research & development ,1753.0, male , healthcare representative ,3.0,6294.0,3.0
+30.0,NO, nan ,833.0, female ,MANUFACTURING DIRECTOR,0.0,6877.0,
+30.0,NO, sales ,228.0,FEMALE,SALES EXECUTIVE,10.0,9419.0,3.0
+,NO, research & development ,1363.0, male , manufacturing director ,10.0,,3.0
+34.0,NO, nan ,1289.0,MALE,HUMAN RESOURCES,10.0,4490.0,
+25.0, nan ,SALES,1399.0, male , sales executive ,3.0,6232.0,3.0
+43.0,NO,NAN,661.0, male ,RESEARCH DIRECTOR,1.0,16627.0,3.0
+,YES, sales ,,NAN, sales executive ,14.0,10400.0,3.0
+55.0, no , research & development ,1770.0,MALE, research director ,1.0,19038.0,
+39.0, yes , research & development ,1310.0,NAN, research scientist ,5.0,,
+36.0,NO, research & development ,1682.0, male , nan ,3.0,5347.0,3.0
+34.0, no , research & development ,649.0, male ,RESEARCH SCIENTIST,,3622.0,3.0
+29.0, no , research & development ,564.0, male , research director ,10.0,11935.0,3.0
+30.0, no , sales ,121.0, female , sales executive ,11.0,5209.0,3.0
+58.0, yes , research & development ,918.0, male ,LABORATORY TECHNICIAN,1.0,2380.0,3.0
+50.0, nan ,SALES,323.0, female , manager ,7.0,19517.0,3.0
+33.0,NO, sales ,992.0, male , manager ,10.0,17444.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,602.0, female ,LABORATORY TECHNICIAN,8.0,3755.0,3.0
+40.0, no , research & development ,1449.0, male ,LABORATORY TECHNICIAN,8.0,3975.0,3.0
+31.0, yes , nan ,,FEMALE,SALES EXECUTIVE,2.0,4559.0,3.0
+43.0, no ,SALES,1076.0, male ,SALES EXECUTIVE,1.0,10798.0,3.0
+56.0, no ,RESEARCH & DEVELOPMENT,1071.0, nan , research scientist ,5.0,2942.0,3.0
+35.0,NO,NAN,,MALE,LABORATORY TECHNICIAN,1.0,1281.0,3.0
+46.0, no ,NAN,, female , nan ,1.0,5258.0,3.0
+54.0, no , research & development ,450.0, female , research scientist ,4.0,4869.0,3.0
+, no , research & development ,170.0,FEMALE,MANUFACTURING DIRECTOR,15.0,6567.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,944.0, female ,NAN,,7403.0,3.0
+34.0, no , sales ,786.0,MALE, sales executive ,,6274.0,4.0
+36.0, no , human resources ,878.0,MALE, human resources ,5.0,2342.0,4.0
+40.0, nan ,RESEARCH & DEVELOPMENT,1649.0,MALE,LABORATORY TECHNICIAN,4.0,2166.0,3.0
+37.0,NAN, research & development ,340.0,FEMALE,RESEARCH SCIENTIST,3.0,3920.0,3.0
+48.0, no , research & development ,1024.0,MALE,HEALTHCARE REPRESENTATIVE,15.0,10999.0,
+34.0,NO, research & development ,1285.0, female , laboratory technician ,11.0,4444.0,3.0
+,YES,RESEARCH & DEVELOPMENT,1405.0,FEMALE,RESEARCH SCIENTIST,8.0,,3.0
+50.0, yes ,SALES,47.0,NAN, sales representative ,3.0,2683.0,3.0
+41.0,NAN,SALES,176.0,MALE,SALES EXECUTIVE,9.0,8189.0,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,, female ,LABORATORY TECHNICIAN,4.0,3377.0,3.0
+45.0, yes ,SALES,1277.0, female , manager ,24.0,18824.0,3.0
+45.0,NO,RESEARCH & DEVELOPMENT,1922.0, male , nan ,4.0,5399.0,
+33.0,NO, sales ,1114.0, female ,SALES EXECUTIVE,3.0,4302.0,3.0
+27.0,NO,SALES,1403.0, female , sales executive ,6.0,5769.0,3.0
+31.0,YES, sales ,163.0,MALE,SALES EXECUTIVE,7.0,6172.0,3.0
+31.0,YES, nan ,, male ,NAN,1.0,8161.0,3.0
+28.0,YES, research & development ,1960.0, male ,LABORATORY TECHNICIAN,4.0,,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,1985.0, female , laboratory technician ,10.0,,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,1180.0, nan ,RESEARCH SCIENTIST,1.0,,3.0
+28.0, yes ,SALES,1933.0,FEMALE,SALES EXECUTIVE,2.0,9854.0,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,253.0, female , manager ,,19033.0,3.0
+33.0, no , research & development ,1549.0, male , nan ,15.0,5207.0,3.0
+36.0, nan , research & development ,1257.0,MALE, research scientist ,,3692.0,3.0
+25.0, no , research & development ,350.0,FEMALE,MANUFACTURING DIRECTOR,4.0,4898.0,3.0
+38.0,NO,SALES,361.0,MALE, sales executive ,8.0,5249.0,3.0
+49.0, yes ,SALES,840.0,FEMALE, sales executive ,9.0,7654.0,3.0
+36.0,NO, sales ,857.0, male ,SALES EXECUTIVE,,6201.0,
+47.0, no ,RESEARCH & DEVELOPMENT,1993.0, male , healthcare representative ,17.0,8633.0,4.0
+24.0, nan , research & development ,1646.0,FEMALE,NAN,6.0,3760.0,3.0
+29.0, no , nan ,1852.0, male , laboratory technician ,11.0,3812.0,3.0
+28.0,YES,NAN,828.0,MALE, research scientist ,,,3.0
+34.0, no , nan ,1281.0, nan , sales executive ,3.0,4538.0,3.0
+40.0,NO,SALES,1239.0, female ,NAN,5.0,6852.0,3.0
+32.0, no ,SALES,436.0,FEMALE,SALES EXECUTIVE,,,3.0
+, no ,SALES,183.0, male , sales executive ,2.0,8639.0,3.0
+30.0, no , research & development ,1989.0, nan ,LABORATORY TECHNICIAN,12.0,3748.0,3.0
+48.0, yes ,RESEARCH & DEVELOPMENT,64.0, male , laboratory technician ,1.0,5381.0,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,643.0,MALE,LABORATORY TECHNICIAN,1.0,2127.0,4.0
+32.0,NO, research & development ,1955.0,FEMALE,HEALTHCARE REPRESENTATIVE,5.0,6667.0,3.0
+27.0,NO,SALES,1965.0,MALE,SALES EXECUTIVE,7.0,4105.0,3.0
+35.0,NAN, nan ,70.0,NAN,HEALTHCARE REPRESENTATIVE,4.0,9884.0,3.0
+27.0,NO,SALES,293.0,FEMALE, sales executive ,7.0,9981.0,3.0
+34.0,NO, research & development ,1431.0, nan ,RESEARCH SCIENTIST,4.0,2996.0,3.0
+31.0, yes , nan ,,MALE,SALES EXECUTIVE,10.0,5617.0,3.0
+25.0, yes ,SALES,1273.0,NAN,SALES REPRESENTATIVE,1.0,1118.0,3.0
+,YES,RESEARCH & DEVELOPMENT,1821.0,FEMALE,HEALTHCARE REPRESENTATIVE,9.0,8926.0,4.0
+31.0, no ,SALES,, female , sales executive ,,,
+29.0,NO,SALES,690.0, female , nan ,6.0,5561.0,3.0
+34.0, no , research & development ,1701.0,FEMALE, research scientist ,,2929.0,3.0
+56.0, no , research & development ,112.0, male , nan ,6.0,7260.0,3.0
+45.0,NO,HUMAN RESOURCES,1049.0, male ,HUMAN RESOURCES,6.0,2177.0,3.0
+54.0,NO, research & development ,, female , manufacturing director ,5.0,4440.0,3.0
+53.0,NO,RESEARCH & DEVELOPMENT,769.0,MALE,LABORATORY TECHNICIAN,2.0,2450.0,3.0
+35.0, yes ,SALES,1639.0, male , sales executive ,13.0,10306.0,3.0
+35.0, no , research & development ,2049.0, nan ,HEALTHCARE REPRESENTATIVE,10.0,5689.0,3.0
+24.0, yes , research & development ,45.0, male , research scientist ,,2293.0,3.0
+,NO, research & development ,1837.0,MALE, research director ,2.0,15787.0,3.0
+34.0,NO, sales ,1951.0,NAN, sales executive ,8.0,8628.0,3.0
+32.0, no , research & development ,8.0, male ,LABORATORY TECHNICIAN,7.0,3068.0,3.0
+26.0,NO,HUMAN RESOURCES,177.0,FEMALE, human resources ,8.0,2942.0,4.0
+48.0, no , research & development ,1116.0, male , manager ,5.0,16885.0,
+27.0,NO,RESEARCH & DEVELOPMENT,1027.0, female ,MANUFACTURING DIRECTOR,3.0,4227.0,3.0
+46.0,NO,RESEARCH & DEVELOPMENT,288.0,MALE,HEALTHCARE REPRESENTATIVE,4.0,9396.0,3.0
+33.0,NAN,RESEARCH & DEVELOPMENT,998.0,FEMALE,HEALTHCARE REPRESENTATIVE,6.0,5488.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,725.0, female , manufacturing director ,9.0,7412.0,3.0
+, no , human resources ,,FEMALE,MANAGER,,19658.0,3.0
+52.0, nan ,RESEARCH & DEVELOPMENT,,MALE, manager ,33.0,,3.0
+27.0, nan , nan ,1870.0,FEMALE, research scientist ,7.0,4774.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1721.0,MALE,LABORATORY TECHNICIAN,5.0,3477.0,3.0
+33.0, yes ,RESEARCH & DEVELOPMENT,328.0,FEMALE, laboratory technician ,9.0,2707.0,4.0
+32.0,YES, sales ,1734.0, male , sales executive ,0.0,6735.0,3.0
+40.0,NO,SALES,1548.0, male , sales executive ,8.0,5473.0,
+37.0,NO,RESEARCH & DEVELOPMENT,460.0, male , manufacturing director ,6.0,6347.0,3.0
+26.0,NAN, research & development ,560.0, female , research scientist ,3.0,2886.0,4.0
+29.0,NO, sales ,766.0, male , sales representative ,,2297.0,
+36.0,NO, sales ,154.0,FEMALE, sales executive ,9.0,9738.0,3.0
+35.0, yes , research & development ,1010.0, male ,LABORATORY TECHNICIAN,4.0,3743.0,4.0
+33.0, yes ,RESEARCH & DEVELOPMENT,328.0,FEMALE, laboratory technician ,9.0,2707.0,4.0
+28.0,NO, research & development ,930.0, female ,RESEARCH SCIENTIST,2.0,2377.0,
+22.0, no ,RESEARCH & DEVELOPMENT,1019.0,MALE,LABORATORY TECHNICIAN,,2451.0,3.0
+56.0,NO, nan ,762.0, male ,HEALTHCARE REPRESENTATIVE,10.0,11103.0,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,775.0,FEMALE,MANUFACTURING DIRECTOR,0.0,,3.0
+24.0, no , research & development ,1009.0,FEMALE, manufacturing director ,4.0,,3.0
+26.0, nan ,RESEARCH & DEVELOPMENT,686.0,FEMALE,NAN,3.0,2659.0,3.0
+37.0,NO,SALES,904.0,MALE, nan ,10.0,7642.0,3.0
+36.0, nan , sales ,2045.0,FEMALE,SALES EXECUTIVE,6.0,6652.0,3.0
+, no ,SALES,1190.0,FEMALE, sales representative ,1.0,2827.0,3.0
+58.0, no , sales ,1938.0, female , manager ,1.0,17875.0,3.0
+40.0,NO,SALES,453.0, male , sales executive ,4.0,7457.0,4.0
+,NO, research & development ,421.0, female , nan ,10.0,12061.0,3.0
+,YES,RESEARCH & DEVELOPMENT,58.0,FEMALE, research director ,,,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,1306.0, female , manager ,,18061.0,4.0
+28.0,YES,RESEARCH & DEVELOPMENT,65.0, male ,LABORATORY TECHNICIAN,,3441.0,
+40.0,NO,NAN,729.0,MALE, sales executive ,18.0,10475.0,4.0
+42.0,NO,RESEARCH & DEVELOPMENT,351.0, female , nan ,9.0,2593.0,3.0
+26.0, no ,SALES,,MALE, sales executive ,7.0,4294.0,
+36.0,NO,RESEARCH & DEVELOPMENT,1594.0, male , laboratory technician ,3.0,,
+40.0,NO, research & development ,2012.0,MALE, laboratory technician ,1.0,2406.0,3.0
+45.0, no , research & development ,336.0,MALE,NAN,24.0,19202.0,3.0
+29.0,NO, research & development ,912.0,FEMALE, laboratory technician ,4.0,2532.0,
+35.0, no , research & development ,, female ,HEALTHCARE REPRESENTATIVE,14.0,4148.0,3.0
+,NO, research & development ,1363.0, male , manufacturing director ,10.0,,3.0
+, no ,SALES,879.0, male ,SALES EXECUTIVE,5.0,4194.0,3.0
+36.0, no , sales ,1556.0,MALE, sales representative ,3.0,2644.0,
+,NO,RESEARCH & DEVELOPMENT,1484.0,MALE, healthcare representative ,8.0,10466.0,3.0
+58.0, no ,RESEARCH & DEVELOPMENT,1423.0,FEMALE, research director ,,19701.0,4.0
+,NO,RESEARCH & DEVELOPMENT,1238.0,MALE,RESEARCH SCIENTIST,14.0,2781.0,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,888.0,NAN,LABORATORY TECHNICIAN,5.0,3162.0,3.0
+32.0, no , sales ,1446.0, male ,SALES EXECUTIVE,4.0,9204.0,3.0
+52.0, yes , sales ,, female , manager ,32.0,19845.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,652.0, male ,LABORATORY TECHNICIAN,,,3.0
+,YES, sales ,1733.0, male , sales executive ,2.0,6134.0,3.0
+30.0,NAN,RESEARCH & DEVELOPMENT,11.0, nan , laboratory technician ,,2693.0,4.0
+28.0, no , research & development ,,MALE,HEALTHCARE REPRESENTATIVE,8.0,5661.0,3.0
+48.0, no , research & development ,1644.0, nan , manager ,2.0,15202.0,4.0
+31.0, no , research & development ,367.0,NAN,NAN,9.0,5582.0,4.0
+41.0, nan ,RESEARCH & DEVELOPMENT,1448.0, male , research scientist ,4.0,2127.0,
+40.0,YES, sales ,,MALE,SALES EXECUTIVE,5.0,9094.0,3.0
+47.0, no , nan ,746.0, female ,NAN,22.0,13770.0,3.0
+29.0, no , research & development ,710.0,MALE, research scientist ,10.0,2720.0,3.0
+, nan ,RESEARCH & DEVELOPMENT,1666.0,NAN,RESEARCH DIRECTOR,,17603.0,4.0
+38.0,NO,RESEARCH & DEVELOPMENT,1782.0,FEMALE, laboratory technician ,5.0,3702.0,3.0
+40.0, no , sales ,516.0,FEMALE,SALES EXECUTIVE,5.0,5715.0,3.0
+48.0, no ,RESEARCH & DEVELOPMENT,1867.0, nan ,RESEARCH DIRECTOR,22.0,19665.0,3.0
+36.0,YES, research & development ,1042.0, female ,LABORATORY TECHNICIAN,17.0,2743.0,3.0
+35.0,NO, research & development ,75.0, female , laboratory technician ,2.0,4014.0,3.0
+34.0, no ,NAN,1535.0, male ,NAN,10.0,7083.0,3.0
+41.0, yes , sales ,1.0, female ,SALES EXECUTIVE,6.0,5993.0,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,1103.0, male , healthcare representative ,6.0,7756.0,3.0
+26.0, yes , sales ,401.0, male , sales executive ,8.0,5828.0,3.0
+39.0, no , sales ,, male , sales executive ,7.0,8237.0,3.0
+27.0, no ,NAN,1434.0,MALE,LABORATORY TECHNICIAN,5.0,2099.0,3.0
+47.0, no ,RESEARCH & DEVELOPMENT,987.0,MALE,MANUFACTURING DIRECTOR,19.0,5067.0,3.0
+52.0, no ,NAN,630.0,MALE, research scientist ,10.0,5577.0,3.0
+, no ,SALES,160.0, nan ,SALES EXECUTIVE,7.0,6146.0,3.0
+48.0, no , sales ,473.0, female , manager ,0.0,12504.0,4.0
+31.0,NO,HUMAN RESOURCES,1461.0, nan ,HUMAN RESOURCES,,2109.0,3.0
+39.0, no , sales ,1929.0,FEMALE, sales executive ,3.0,5736.0,3.0
+29.0, yes , research & development ,300.0, male ,RESEARCH SCIENTIST,6.0,2058.0,3.0
+34.0,YES,RESEARCH & DEVELOPMENT,1905.0, male ,RESEARCH SCIENTIST,5.0,2307.0,4.0
+38.0, nan , sales ,1036.0, male , sales executive ,1.0,6861.0,3.0
+37.0,YES, research & development ,4.0,MALE,NAN,0.0,2090.0,3.0
+28.0,NO, research & development ,1301.0,MALE, nan ,3.0,2080.0,3.0
+28.0,NO,SALES,1507.0,MALE,SALES EXECUTIVE,4.0,,3.0
+38.0,NO, research & development ,1088.0,FEMALE,HEALTHCARE REPRESENTATIVE,19.0,8823.0,3.0
+41.0, yes ,RESEARCH & DEVELOPMENT,1210.0,MALE,RESEARCH SCIENTIST,1.0,2107.0,3.0
+29.0,NO,RESEARCH & DEVELOPMENT,1249.0,FEMALE, research scientist ,3.0,3760.0,3.0
+, no , research & development ,451.0,FEMALE,HEALTHCARE REPRESENTATIVE,1.0,9985.0,3.0
+35.0, no , sales ,, female , sales representative ,2.0,2014.0,3.0
+29.0, nan ,SALES,283.0,NAN, sales executive ,10.0,7639.0,4.0
+, no ,SALES,600.0,MALE,SALES EXECUTIVE,11.0,,3.0
+23.0,NO,RESEARCH & DEVELOPMENT,758.0, male ,LABORATORY TECHNICIAN,4.0,2500.0,3.0
+47.0,NO,NAN,925.0,FEMALE, sales representative ,3.0,3294.0,3.0
+30.0, no ,SALES,,MALE, sales representative ,3.0,2983.0,3.0
+35.0, no ,HUMAN RESOURCES,2040.0, female ,HUMAN RESOURCES,9.0,8837.0,3.0
+29.0, yes ,RESEARCH & DEVELOPMENT,2027.0, male , research scientist ,2.0,4787.0,3.0
+26.0,NO, research & development ,1068.0,FEMALE, research scientist ,5.0,2007.0,3.0
+28.0,NO, research & development ,, female ,RESEARCH SCIENTIST,8.0,3660.0,3.0
+34.0,NO,SALES,1882.0, male , sales executive ,5.0,9713.0,3.0
+41.0, no , sales ,1815.0,FEMALE, nan ,22.0,10447.0,3.0
+48.0, nan ,RESEARCH & DEVELOPMENT,664.0,FEMALE, manager ,3.0,15402.0,3.0
+28.0, no , research & development ,1622.0,FEMALE, manufacturing director ,5.0,4877.0,4.0
+32.0,NO,RESEARCH & DEVELOPMENT,471.0, female ,LABORATORY TECHNICIAN,8.0,2370.0,3.0
+38.0, no , research & development ,273.0,MALE, manufacturing director ,7.0,6261.0,3.0
+34.0, no , research & development ,804.0,FEMALE,RESEARCH SCIENTIST,6.0,4381.0,3.0
+56.0, no ,RESEARCH & DEVELOPMENT,1441.0,FEMALE,RESEARCH SCIENTIST,3.0,2066.0,4.0
+47.0,YES,RESEARCH & DEVELOPMENT,376.0,MALE, manager ,,,3.0
+38.0, no , sales ,307.0,MALE, sales executive ,16.0,10609.0,3.0
+, no , research & development ,,FEMALE, laboratory technician ,4.0,2440.0,4.0
+53.0, no , research & development ,250.0, female ,MANUFACTURING DIRECTOR,4.0,4450.0,3.0
+20.0, yes , research & development ,, female , research scientist ,1.0,2600.0,
+30.0,NO,SALES,508.0, male , sales representative ,,2476.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1900.0, nan ,MANAGER,22.0,17174.0,3.0
+20.0,YES, research & development ,137.0,FEMALE, laboratory technician ,1.0,,
+29.0,YES, research & development ,315.0, male , research scientist ,4.0,2389.0,3.0
+34.0,NO,SALES,216.0,FEMALE,SALES REPRESENTATIVE,4.0,2231.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,1256.0, male , manager ,1.0,18711.0,
+33.0,NAN,NAN,446.0, male , sales executive ,7.0,4682.0,3.0
+28.0, yes ,RESEARCH & DEVELOPMENT,741.0, female , research scientist ,7.0,2216.0,3.0
+,NO,SALES,, male , sales executive ,5.0,4221.0,3.0
+31.0, no ,SALES,1749.0,MALE,SALES EXECUTIVE,5.0,8346.0,3.0
+35.0, no ,NAN,1137.0,MALE, sales executive ,5.0,4968.0,3.0
+54.0,NAN, research & development ,1969.0, female ,RESEARCH SCIENTIST,4.0,2897.0,3.0
+,NO, sales ,1908.0, male ,SALES EXECUTIVE,4.0,5507.0,
+47.0,YES, sales ,785.0,FEMALE, sales executive ,5.0,6397.0,3.0
+47.0, no ,RESEARCH & DEVELOPMENT,447.0, male , research director ,3.0,18300.0,3.0
+49.0, no ,RESEARCH & DEVELOPMENT,1473.0, male , healthcare representative ,3.0,6651.0,3.0
+56.0,YES, research & development ,1907.0,MALE,LABORATORY TECHNICIAN,4.0,2587.0,3.0
+34.0, no ,RESEARCH & DEVELOPMENT,, male ,RESEARCH SCIENTIST,,3815.0,3.0
+60.0,NO, research & development ,1697.0,MALE, healthcare representative ,1.0,10883.0,4.0
+38.0,NO, research & development ,1006.0,NAN,RESEARCH SCIENTIST,2.0,2684.0,3.0
+41.0, no , research & development ,, female , manufacturing director ,20.0,13570.0,4.0
+40.0, no , sales ,215.0,MALE, sales executive ,12.0,10855.0,
+40.0,NO,RESEARCH & DEVELOPMENT,1892.0, male ,MANAGER,19.0,16823.0,3.0
+22.0,NO, research & development ,22.0, male , laboratory technician ,1.0,2935.0,3.0
+43.0,NO, sales ,1293.0, female ,SALES EXECUTIVE,21.0,10231.0,3.0
+31.0, no , sales ,438.0, male , sales executive ,7.0,7547.0,3.0
+45.0,NO,RESEARCH & DEVELOPMENT,,FEMALE, nan ,1.0,2274.0,3.0
+28.0,NO, research & development ,1136.0,MALE, research scientist ,5.0,,3.0
+20.0,YES,SALES,922.0, female , sales representative ,,2044.0,3.0
+29.0, no , human resources ,1419.0, male ,HUMAN RESOURCES,10.0,7988.0,3.0
+29.0, no , nan ,1497.0, male ,SALES EXECUTIVE,,8620.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,2064.0, male ,MANUFACTURING DIRECTOR,6.0,6142.0,4.0
+31.0,NO, research & development ,1916.0, female , laboratory technician ,2.0,3978.0,3.0
+30.0, no , research & development ,562.0,MALE,LABORATORY TECHNICIAN,5.0,2097.0,3.0
+31.0, no ,SALES,1613.0,MALE,SALES EXECUTIVE,5.0,5332.0,
+27.0, no , research & development ,764.0, female ,HEALTHCARE REPRESENTATIVE,7.0,6811.0,3.0
+32.0,NAN, research & development ,1966.0,MALE,MANUFACTURING DIRECTOR,1.0,9679.0,4.0
+44.0,NO,RESEARCH & DEVELOPMENT,36.0,FEMALE, nan ,22.0,10248.0,3.0
+40.0,NAN, sales ,492.0, male ,SALES EXECUTIVE,6.0,6380.0,3.0
+33.0,NO,SALES,1924.0,MALE,SALES EXECUTIVE,10.0,,3.0
+59.0,NAN,SALES,,MALE,NAN,6.0,11904.0,3.0
+42.0,NAN,RESEARCH & DEVELOPMENT,347.0, female , research scientist ,3.0,,
+46.0, no , sales ,1124.0, male ,MANAGER,12.0,,3.0
+52.0,NO,RESEARCH & DEVELOPMENT,1118.0, male ,HEALTHCARE REPRESENTATIVE,8.0,10445.0,3.0
+37.0, no , sales ,311.0, male ,SALES REPRESENTATIVE,9.0,2793.0,3.0
+44.0,YES, nan ,1098.0,MALE, human resources ,20.0,10482.0,
+53.0, no , sales ,205.0, nan ,SALES REPRESENTATIVE,7.0,2306.0,4.0
+19.0,NAN,SALES,235.0,NAN,SALES REPRESENTATIVE,0.0,2325.0,4.0
+43.0, no ,NAN,1126.0,FEMALE, manufacturing director ,,10820.0,
+44.0,NO, research & development ,744.0,MALE, laboratory technician ,5.0,3708.0,3.0
+30.0, yes , nan ,, female ,RESEARCH SCIENTIST,5.0,2657.0,3.0
+33.0,YES, research & development ,,MALE,MANAGER,7.0,13610.0,3.0
+57.0, no ,NAN,482.0, male ,NAN,3.0,,3.0
+33.0, no , research & development ,1970.0,MALE,HEALTHCARE REPRESENTATIVE,9.0,5968.0,4.0
+22.0,NO, research & development ,284.0,MALE,RESEARCH SCIENTIST,4.0,2328.0,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,601.0,FEMALE, manufacturing director ,20.0,13237.0,3.0
+31.0, yes , sales ,1379.0,FEMALE,SALES REPRESENTATIVE,1.0,2785.0,3.0
+26.0,NO, sales ,618.0,MALE,SALES EXECUTIVE,0.0,4306.0,3.0
+24.0, no ,NAN,128.0, female ,SALES EXECUTIVE,3.0,4999.0,4.0
+46.0, no ,RESEARCH & DEVELOPMENT,1727.0, male ,HEALTHCARE REPRESENTATIVE,10.0,5562.0,3.0
+36.0,NO,NAN,2025.0,FEMALE,MANUFACTURING DIRECTOR,4.0,5131.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,2053.0, male ,LABORATORY TECHNICIAN,4.0,4025.0,3.0
+48.0,NO, research & development ,, male , laboratory technician ,1.0,2559.0,3.0
+36.0, no , research & development ,, nan ,LABORATORY TECHNICIAN,11.0,2519.0,4.0
+40.0, no ,RESEARCH & DEVELOPMENT,253.0, female , manager ,,19033.0,3.0
+50.0, yes ,SALES,723.0, male ,SALES EXECUTIVE,4.0,6796.0,3.0
+34.0, no ,SALES,1047.0,MALE,SALES EXECUTIVE,15.0,9725.0,3.0
+52.0,NO,RESEARCH & DEVELOPMENT,, female , laboratory technician ,5.0,2950.0,3.0
+33.0, no ,SALES,, female , sales representative ,2.0,2342.0,3.0
+36.0,NO, sales ,1425.0,FEMALE, sales executive ,5.0,,3.0
+41.0, no , research & development ,999.0,MALE, research director ,18.0,19419.0,
+32.0, nan ,RESEARCH & DEVELOPMENT,951.0,FEMALE, laboratory technician ,3.0,2332.0,4.0
+42.0, no , research & development ,659.0,FEMALE, healthcare representative ,10.0,4089.0,3.0
+26.0, no ,RESEARCH & DEVELOPMENT,, nan , research scientist ,8.0,2875.0,
+60.0, no ,NAN,,MALE,NAN,11.0,5220.0,3.0
+31.0,NO,RESEARCH & DEVELOPMENT,581.0, nan ,MANUFACTURING DIRECTOR,,10648.0,4.0
+49.0,NO,RESEARCH & DEVELOPMENT,1941.0,MALE, research director ,5.0,19161.0,3.0
+32.0,NO,SALES,1304.0,NAN,SALES EXECUTIVE,10.0,6209.0,3.0
+,NO,SALES,975.0, female ,SALES EXECUTIVE,,4601.0,3.0
+19.0, yes , human resources ,566.0, male , human resources ,1.0,2564.0,3.0
+35.0,NO, sales ,314.0, female , sales executive ,10.0,8789.0,
+38.0,NO,HUMAN RESOURCES,,MALE, human resources ,6.0,2991.0,3.0
+36.0, no , nan ,592.0,MALE, sales executive ,10.0,9980.0,3.0
+,NAN,RESEARCH & DEVELOPMENT,2051.0,FEMALE, nan ,5.0,2001.0,3.0
+29.0,NO, research & development ,824.0, nan , research scientist ,10.0,2700.0,4.0
+,NAN, research & development ,1025.0,FEMALE,MANUFACTURING DIRECTOR,2.0,5003.0,3.0
+55.0,NO, research & development ,1096.0,MALE,MANUFACTURING DIRECTOR,3.0,10976.0,3.0
+29.0, no , research & development ,2054.0,FEMALE, research scientist ,5.0,3785.0,3.0
+50.0,NO, sales ,,FEMALE,SALES EXECUTIVE,18.0,6347.0,3.0
+23.0, yes ,SALES,,MALE,SALES REPRESENTATIVE,1.0,1790.0,3.0
+35.0, nan ,HUMAN RESOURCES,1164.0,MALE,HUMAN RESOURCES,5.0,4323.0,3.0
+38.0, no , research & development ,773.0,MALE, research scientist ,1.0,3057.0,3.0
+47.0, no , sales ,467.0,NAN, sales representative ,0.0,2976.0,3.0
+, yes ,SALES,1876.0, male ,NAN,1.0,1081.0,3.0
+28.0,NO, sales ,,FEMALE, sales executive ,8.0,4779.0,4.0
+46.0,NO,RESEARCH & DEVELOPMENT,1228.0, male ,MANUFACTURING DIRECTOR,6.0,7379.0,3.0
+33.0, no ,RESEARCH & DEVELOPMENT,1994.0, male , laboratory technician ,1.0,2008.0,3.0
+26.0,NO,SALES,72.0,FEMALE,SALES EXECUTIVE,2.0,,3.0
+22.0, no , research & development ,217.0, male , research scientist ,2.0,,4.0
+33.0,NO, nan ,39.0,MALE, laboratory technician ,1.0,2496.0,3.0
+, no , research & development ,1296.0,MALE, laboratory technician ,2.0,3867.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,2.0,MALE, nan ,10.0,5130.0,4.0
+33.0,NO,SALES,1670.0, male , sales executive ,6.0,,3.0
+30.0,YES, sales ,299.0, female ,NAN,6.0,6696.0,3.0
+38.0,NO,RESEARCH & DEVELOPMENT,271.0,MALE, manufacturing director ,1.0,6553.0,3.0
+20.0, no ,SALES,1226.0,MALE, sales representative ,,2678.0,3.0
+25.0,YES,NAN,1439.0, nan , sales representative ,3.0,4400.0,3.0
+30.0, no , nan ,747.0,MALE, nan ,8.0,5304.0,4.0
+27.0,NO, research & development ,54.0,FEMALE,LABORATORY TECHNICIAN,1.0,2341.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,224.0, male ,RESEARCH SCIENTIST,1.0,,
+45.0, nan ,RESEARCH & DEVELOPMENT,341.0,MALE, manufacturing director ,3.0,6434.0,
+48.0, no , research & development ,945.0, male , research scientist ,0.0,2259.0,3.0
+28.0, no , research & development ,1799.0,MALE,RESEARCH SCIENTIST,5.0,2044.0,3.0
+, no ,RESEARCH & DEVELOPMENT,865.0,FEMALE, research scientist ,,5175.0,3.0
+34.0, yes , research & development ,147.0,MALE,LABORATORY TECHNICIAN,9.0,6074.0,4.0
+, nan , sales ,, female , nan ,20.0,13525.0,3.0
+28.0,YES, sales ,1486.0, male ,SALES REPRESENTATIVE,3.0,2909.0,3.0
+24.0, no , research & development ,150.0, male , laboratory technician ,,2774.0,3.0
+25.0, no ,SALES,1240.0, male ,SALES EXECUTIVE,4.0,4950.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,1252.0, female , healthcare representative ,10.0,6812.0,3.0
+47.0, no ,RESEARCH & DEVELOPMENT,1827.0, female ,MANUFACTURING DIRECTOR,22.0,10333.0,3.0
+41.0, yes , research & development ,927.0, female ,LABORATORY TECHNICIAN,7.0,,
+29.0, no ,RESEARCH & DEVELOPMENT,1586.0,MALE, laboratory technician ,10.0,4723.0,3.0
+27.0, no , sales ,56.0,MALE,SALES EXECUTIVE,9.0,8726.0,3.0
+47.0, no ,SALES,1003.0,FEMALE, sales executive ,9.0,4163.0,3.0
+, no ,RESEARCH & DEVELOPMENT,743.0,FEMALE,MANUFACTURING DIRECTOR,,7861.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,, female , manufacturing director ,11.0,,3.0
+30.0,NO, sales ,1754.0, nan , sales executive ,7.0,7140.0,3.0
+34.0,NAN, sales ,1541.0,MALE,SALES REPRESENTATIVE,11.0,2308.0,4.0
+35.0,NO,RESEARCH & DEVELOPMENT,899.0,MALE, manufacturing director ,13.0,10903.0,3.0
+47.0, no , research & development ,1438.0,MALE, research scientist ,6.0,3420.0,3.0
+27.0,NAN,NAN,7.0,NAN,LABORATORY TECHNICIAN,2.0,3468.0,3.0
+59.0,NAN,RESEARCH & DEVELOPMENT,10.0,FEMALE,LABORATORY TECHNICIAN,1.0,2670.0,4.0
+31.0,YES,SALES,1427.0,FEMALE,SALES REPRESENTATIVE,1.0,1359.0,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,247.0,FEMALE, research scientist ,3.0,2311.0,
+33.0,YES, research & development ,1108.0, male , research scientist ,2.0,2313.0,4.0
+32.0,NO, nan ,1671.0, nan ,RESEARCH SCIENTIST,9.0,5470.0,
+31.0,YES, nan ,, male ,NAN,1.0,8161.0,3.0
+40.0,NO,SALES,1986.0, female ,SALES EXECUTIVE,11.0,5677.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,423.0, male , research scientist ,5.0,4821.0,3.0
+37.0,NO,HUMAN RESOURCES,1794.0,MALE, human resources ,,4071.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,961.0,FEMALE, healthcare representative ,9.0,5855.0,3.0
+51.0,YES,RESEARCH & DEVELOPMENT,179.0,MALE, manufacturing director ,,10650.0,3.0
+35.0, nan ,SALES,,MALE, sales executive ,2.0,5440.0,3.0
+,NO, sales ,789.0,MALE, sales executive ,10.0,7587.0,3.0
+32.0, no , sales ,333.0, male , sales executive ,3.0,4465.0,3.0
+33.0,NO, research & development ,1698.0,MALE,LABORATORY TECHNICIAN,,2028.0,3.0
+52.0, no , research & development ,791.0,MALE, research scientist ,,4258.0,3.0
+26.0, yes ,HUMAN RESOURCES,1818.0,FEMALE, human resources ,5.0,2148.0,3.0
+39.0, no ,NAN,1390.0,MALE,SALES EXECUTIVE,5.0,6120.0,3.0
+39.0,NAN,RESEARCH & DEVELOPMENT,1026.0,FEMALE,NAN,21.0,12742.0,
+52.0, no ,RESEARCH & DEVELOPMENT,976.0, male , manager ,9.0,17099.0,3.0
+28.0,NO,SALES,1927.0,MALE,SALES EXECUTIVE,7.0,6834.0,3.0
+32.0,NAN, research & development ,231.0,MALE, research scientist ,5.0,3038.0,4.0
+35.0, no ,RESEARCH & DEVELOPMENT,269.0,FEMALE, laboratory technician ,6.0,4425.0,3.0
+,NO,RESEARCH & DEVELOPMENT,124.0,MALE, healthcare representative ,10.0,10673.0,3.0
+,NO, research & development ,, male ,LABORATORY TECHNICIAN,8.0,5429.0,
+29.0, no , sales ,1650.0,MALE,SALES EXECUTIVE,5.0,5869.0,3.0
+34.0, no , research & development ,1932.0, male ,NAN,15.0,5747.0,
+34.0,NO,SALES,,FEMALE,SALES EXECUTIVE,3.0,6500.0,3.0
+37.0,NO,RESEARCH & DEVELOPMENT,460.0, male , manufacturing director ,6.0,6347.0,3.0
+43.0, no ,SALES,754.0, male ,SALES EXECUTIVE,2.0,6804.0,3.0
+49.0,NAN,RESEARCH & DEVELOPMENT,,MALE,MANAGER,8.0,15379.0,3.0
+56.0, no ,RESEARCH & DEVELOPMENT,2026.0, male ,HEALTHCARE REPRESENTATIVE,13.0,,4.0
+27.0,NO, sales ,800.0,MALE,SALES EXECUTIVE,4.0,,3.0
+50.0,NO, research & development ,1005.0, nan , manufacturing director ,12.0,13973.0,3.0
+33.0, no , research & development ,2009.0, female ,HEALTHCARE REPRESENTATIVE,9.0,,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,717.0, nan ,HEALTHCARE REPRESENTATIVE,,8621.0,3.0
+, no , research & development ,1762.0,FEMALE, research scientist ,1.0,2109.0,3.0
+36.0,NO, research & development ,699.0, male , manufacturing director ,3.0,8847.0,3.0
+33.0,NO, research & development ,817.0,MALE, research director ,13.0,11691.0,3.0
+30.0,NO, research & development ,1609.0,MALE,RESEARCH SCIENTIST,6.0,2141.0,3.0
+29.0, no ,SALES,463.0,FEMALE,SALES EXECUTIVE,7.0,8268.0,3.0
+21.0,YES,RESEARCH & DEVELOPMENT,1279.0,FEMALE,LABORATORY TECHNICIAN,2.0,2625.0,4.0
+28.0, no ,NAN,1506.0,MALE, research scientist ,1.0,1563.0,
+45.0,NO, research & development ,1002.0, male ,LABORATORY TECHNICIAN,9.0,3633.0,
+35.0,NO, research & development ,577.0, male ,LABORATORY TECHNICIAN,5.0,4230.0,3.0
+26.0,YES,SALES,796.0,MALE,SALES EXECUTIVE,4.0,,3.0
+26.0, no , research & development ,164.0, nan ,RESEARCH SCIENTIST,5.0,2368.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1601.0, male ,LABORATORY TECHNICIAN,,2690.0,3.0
+,YES,RESEARCH & DEVELOPMENT,1433.0, female , research scientist ,1.0,1261.0,3.0
+52.0, no ,SALES,2019.0,MALE, sales representative ,,3482.0,3.0
+, yes , research & development ,454.0,MALE,LABORATORY TECHNICIAN,7.0,,3.0
+54.0, no , sales ,303.0, female ,SALES EXECUTIVE,6.0,5940.0,
+,NO,RESEARCH & DEVELOPMENT,304.0, male , laboratory technician ,13.0,5914.0,3.0
+34.0, no ,SALES,1823.0, male ,NAN,10.0,,
+29.0, no , sales ,388.0, male , sales executive ,10.0,4554.0,3.0
+30.0,NO, nan ,1482.0,MALE, research scientist ,1.0,1274.0,3.0
+36.0,NO, research & development ,,FEMALE,MANUFACTURING DIRECTOR,14.0,8858.0,3.0
+40.0, no , research & development ,2048.0,MALE,RESEARCH SCIENTIST,2.0,2809.0,3.0
+18.0, yes , sales ,1624.0,FEMALE, sales representative ,0.0,1569.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,21.0,MALE, research scientist ,6.0,,3.0
+24.0,NO, sales ,507.0, female ,NAN,5.0,4260.0,3.0
+36.0,NO, research & development ,,FEMALE,MANUFACTURING DIRECTOR,14.0,8858.0,3.0
+36.0,NO,SALES,2036.0,MALE,SALES EXECUTIVE,15.0,5406.0,
+34.0, no ,RESEARCH & DEVELOPMENT,1577.0,MALE,RESEARCH SCIENTIST,1.0,2972.0,3.0
+53.0, nan , sales ,1968.0,NAN, sales executive ,2.0,10448.0,3.0
+39.0, no ,SALES,182.0,FEMALE, sales executive ,15.0,5902.0,
+33.0, no ,RESEARCH & DEVELOPMENT,612.0, female , research director ,6.0,16184.0,3.0
+29.0,NAN,RESEARCH & DEVELOPMENT,816.0,FEMALE,LABORATORY TECHNICIAN,1.0,2319.0,3.0
+19.0,YES, research & development ,, male , laboratory technician ,1.0,1102.0,4.0
+,NO,RESEARCH & DEVELOPMENT,, nan ,HEALTHCARE REPRESENTATIVE,6.0,,3.0
+35.0, no , sales ,1218.0,MALE, sales executive ,7.0,8966.0,3.0
+41.0,NO, research & development ,1772.0, male , laboratory technician ,5.0,2289.0,4.0
+31.0,NO,SALES,1673.0,FEMALE,SALES EXECUTIVE,10.0,5476.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1158.0, male , nan ,1.0,4766.0,3.0
+36.0,NO, research & development ,501.0,FEMALE, research scientist ,2.0,2543.0,3.0
+35.0,NO, research & development ,1886.0,FEMALE, manufacturing director ,3.0,4788.0,3.0
+38.0,NO,NAN,79.0,FEMALE, laboratory technician ,10.0,2406.0,3.0
+44.0, no ,HUMAN RESOURCES,1642.0,MALE, human resources ,10.0,5743.0,
+53.0,NO, research & development ,1689.0,MALE,HEALTHCARE REPRESENTATIVE,4.0,7005.0,3.0
+54.0, no ,RESEARCH & DEVELOPMENT,126.0, female ,RESEARCH DIRECTOR,,13549.0,3.0
+41.0, no ,SALES,298.0,FEMALE, manager ,1.0,13591.0,3.0
+55.0, yes ,SALES,, male , sales executive ,9.0,5160.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,1312.0,FEMALE,HEALTHCARE REPRESENTATIVE,,7094.0,3.0
+38.0, no ,SALES,, female , sales executive ,5.0,5666.0,3.0
+28.0, no ,RESEARCH & DEVELOPMENT,1286.0, male , laboratory technician ,4.0,2154.0,
+23.0,YES,RESEARCH & DEVELOPMENT,,MALE,LABORATORY TECHNICIAN,0.0,1601.0,4.0
+34.0,NO,SALES,523.0,FEMALE,SALES EXECUTIVE,3.0,6538.0,3.0
+25.0,NO, nan ,1303.0,FEMALE, research scientist ,2.0,,3.0
+21.0,YES, sales ,494.0,FEMALE, sales representative ,,,3.0
+55.0,NO,RESEARCH & DEVELOPMENT,389.0, male , laboratory technician ,10.0,5415.0,3.0
+41.0, no ,SALES,2037.0,MALE,SALES EXECUTIVE,5.0,8938.0,3.0
+35.0, yes ,SALES,1639.0, male , sales executive ,13.0,10306.0,3.0
+46.0,NO, sales ,1527.0,FEMALE,MANAGER,13.0,16606.0,3.0
+40.0,YES, sales ,986.0, female ,SALES EXECUTIVE,1.0,13194.0,3.0
+36.0, nan , research & development ,1664.0, nan , nan ,5.0,6842.0,4.0
+34.0, no ,SALES,1055.0,NAN, sales representative ,1.0,2220.0,3.0
+26.0,NO, research & development ,,MALE, laboratory technician ,7.0,,4.0
+35.0, no , sales ,100.0, male , sales executive ,15.0,4312.0,3.0
+,YES,SALES,720.0,FEMALE,SALES EXECUTIVE,2.0,4577.0,3.0
+36.0, no , research & development ,, male , laboratory technician ,1.0,3688.0,3.0
+36.0, nan ,RESEARCH & DEVELOPMENT,, male , laboratory technician ,7.0,2741.0,3.0
+23.0, no , sales ,113.0, male , sales representative ,0.0,,3.0
+38.0, no ,RESEARCH & DEVELOPMENT,662.0,FEMALE, research scientist ,0.0,2619.0,3.0
+32.0, no , research & development ,359.0, male ,LABORATORY TECHNICIAN,5.0,2794.0,4.0
+28.0,NO, research & development ,, female , manufacturing director ,9.0,7655.0,3.0
+39.0,NO,RESEARCH & DEVELOPMENT,1132.0, male , laboratory technician ,5.0,6782.0,3.0
+31.0, no , sales ,613.0,MALE, manager ,5.0,11557.0,4.0
+25.0, no , research & development ,369.0,MALE,HEALTHCARE REPRESENTATIVE,6.0,4000.0,3.0
+37.0, no , research & development ,391.0, female ,RESEARCH SCIENTIST,17.0,2115.0,3.0
+25.0,NO,RESEARCH & DEVELOPMENT,143.0, male , research scientist ,2.0,,
+41.0,NAN, nan ,1814.0,MALE,HEALTHCARE REPRESENTATIVE,3.0,6870.0,3.0
+54.0, no , research & development ,1013.0, female , manufacturing director ,10.0,10739.0,3.0
+26.0,YES,RESEARCH & DEVELOPMENT,1053.0, male , research scientist ,3.0,2042.0,3.0
+55.0,NO, research & development ,1424.0,MALE, research director ,7.0,14732.0,3.0
+47.0, no ,RESEARCH & DEVELOPMENT,820.0, nan ,MANAGER,26.0,16752.0,3.0
+, no ,SALES,1329.0,MALE, sales executive ,19.0,6151.0,3.0
+,YES, sales ,1733.0, male , sales executive ,2.0,6134.0,3.0
+18.0, yes , sales ,614.0,MALE,NAN,0.0,1878.0,3.0
+27.0,NO, research & development ,1094.0, male , laboratory technician ,3.0,4621.0,3.0
+28.0,YES, sales ,1486.0, male ,SALES REPRESENTATIVE,3.0,2909.0,3.0
+,NO,NAN,893.0, male ,SALES REPRESENTATIVE,2.0,2899.0,3.0
+31.0, no , research & development ,530.0,MALE,LABORATORY TECHNICIAN,4.0,,3.0
+, no , research & development ,486.0, female ,LABORATORY TECHNICIAN,5.0,3452.0,4.0
+46.0,NO,NAN,1217.0, male , nan ,4.0,,
+37.0,NAN,RESEARCH & DEVELOPMENT,342.0, male , manufacturing director ,1.0,10048.0,
+39.0, no ,RESEARCH & DEVELOPMENT,1397.0,MALE, healthcare representative ,6.0,10920.0,4.0
+40.0, no , research & development ,832.0,MALE,LABORATORY TECHNICIAN,1.0,5094.0,
+50.0,NO,RESEARCH & DEVELOPMENT,1606.0, male ,NAN,30.0,11245.0,3.0
+31.0,YES, research & development ,1537.0,FEMALE, research scientist ,7.0,4084.0,3.0
+49.0, yes ,NAN,1420.0,MALE,LABORATORY TECHNICIAN,4.0,4284.0,4.0
+31.0, yes , sales ,1331.0, female ,SALES REPRESENTATIVE,3.0,,
+46.0,NO,HUMAN RESOURCES,103.0, nan ,HUMAN RESOURCES,4.0,5021.0,4.0
+44.0,NO, research & development ,,MALE, healthcare representative ,4.0,6465.0,3.0
+49.0, no , research & development ,1655.0, female , research director ,4.0,16413.0,3.0
+27.0,NO,NAN,1864.0,FEMALE, sales representative ,9.0,3540.0,4.0
+,YES,RESEARCH & DEVELOPMENT,932.0, nan , laboratory technician ,2.0,2404.0,4.0
+38.0, no ,SALES,1835.0, nan , sales representative ,4.0,5405.0,4.0
+44.0, no , research & development ,1475.0,MALE, research scientist ,5.0,3420.0,
+39.0, no , research & development ,1737.0,MALE, laboratory technician ,9.0,6472.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,1661.0,FEMALE, healthcare representative ,15.0,13966.0,3.0
+24.0,NO,RESEARCH & DEVELOPMENT,26.0, female , manufacturing director ,4.0,,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,1574.0, male ,RESEARCH SCIENTIST,6.0,4087.0,3.0
+42.0,NAN, research & development ,1768.0, male ,LABORATORY TECHNICIAN,5.0,2766.0,4.0
+28.0,NO,RESEARCH & DEVELOPMENT,1154.0, male ,NAN,3.0,2703.0,3.0
+42.0,NO,RESEARCH & DEVELOPMENT,1334.0, male ,NAN,20.0,17861.0,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,287.0,MALE,NAN,3.0,4876.0,
+28.0, yes , research & development ,1082.0, male ,HEALTHCARE REPRESENTATIVE,10.0,8722.0,3.0
+60.0, no , sales ,732.0, male ,SALES EXECUTIVE,2.0,5405.0,3.0
+, no , sales ,1355.0,FEMALE,SALES EXECUTIVE,7.0,6893.0,3.0
+53.0,NO, research & development ,1472.0,MALE,RESEARCH DIRECTOR,,16598.0,3.0
+32.0, yes , research & development ,190.0,FEMALE, laboratory technician ,5.0,,4.0
+28.0,YES,RESEARCH & DEVELOPMENT,1175.0,FEMALE, laboratory technician ,1.0,2515.0,3.0
+42.0, no , human resources ,1408.0,FEMALE,MANAGER,,16799.0,3.0
+35.0, no , sales ,74.0,MALE,SALES EXECUTIVE,9.0,9069.0,4.0
+49.0,NO, sales ,1138.0, male ,SALES EXECUTIVE,9.0,13120.0,3.0
+54.0,NO,RESEARCH & DEVELOPMENT,578.0,FEMALE, laboratory technician ,1.0,3780.0,3.0
+,NAN, sales ,416.0,MALE, sales executive ,8.0,6929.0,
+28.0, no , research & development ,1834.0,NAN,NAN,,3591.0,4.0
+27.0,NO,RESEARCH & DEVELOPMENT,700.0, male ,RESEARCH SCIENTIST,4.0,2045.0,3.0
+44.0,NO, research & development ,1496.0,MALE,MANUFACTURING DIRECTOR,2.0,10209.0,3.0
+31.0, yes , nan ,1464.0, male ,LABORATORY TECHNICIAN,2.0,3722.0,3.0
+26.0,YES,RESEARCH & DEVELOPMENT,848.0, nan , research scientist ,8.0,2366.0,3.0
+24.0,YES,RESEARCH & DEVELOPMENT,1494.0,MALE,LABORATORY TECHNICIAN,0.0,3172.0,3.0
+27.0,NO, research & development ,1619.0, male ,LABORATORY TECHNICIAN,7.0,4066.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,830.0,NAN,NAN,14.0,,3.0
+38.0, no ,RESEARCH & DEVELOPMENT,,MALE, research scientist ,2.0,2821.0,3.0
+31.0, no ,SALES,, female , sales executive ,,,
+42.0,NO, research & development ,1109.0,MALE,NAN,22.0,17665.0,3.0
+28.0,NO, research & development ,,FEMALE, laboratory technician ,9.0,6674.0,3.0
+25.0, no ,RESEARCH & DEVELOPMENT,854.0,MALE,RESEARCH SCIENTIST,4.0,3424.0,3.0
+32.0, no , nan ,859.0, male , sales executive ,5.0,4403.0,3.0
+30.0, no , nan ,1321.0,FEMALE, nan ,,11916.0,4.0
+29.0, no , sales ,,MALE,SALES EXECUTIVE,,6931.0,3.0
+33.0, no ,RESEARCH & DEVELOPMENT,1994.0, male , laboratory technician ,1.0,2008.0,3.0
+47.0, nan ,SALES,728.0, male ,NAN,7.0,4960.0,3.0
+28.0,YES,NAN,1604.0,MALE,LABORATORY TECHNICIAN,1.0,2408.0,3.0
+35.0,NO, research & development ,1369.0,FEMALE,LABORATORY TECHNICIAN,,5363.0,
+37.0,NAN,NAN,, male ,NAN,7.0,5974.0,3.0
+35.0, yes ,SALES,1797.0,MALE,NAN,10.0,5813.0,3.0
+25.0,NO,SALES,2018.0, female ,SALES EXECUTIVE,5.0,4907.0,4.0
+35.0, yes , sales ,1667.0,MALE,SALES EXECUTIVE,11.0,4581.0,4.0
+29.0, no ,RESEARCH & DEVELOPMENT,1859.0,MALE,HEALTHCARE REPRESENTATIVE,7.0,6384.0,3.0
+,YES,SALES,1100.0, male , sales executive ,,9582.0,
+54.0,NO, research & development ,1665.0,FEMALE, manager ,10.0,17426.0,4.0
+48.0, no ,RESEARCH & DEVELOPMENT,1263.0, male ,RESEARCH DIRECTOR,1.0,18265.0,3.0
+34.0,NAN,RESEARCH & DEVELOPMENT,1755.0, male ,RESEARCH SCIENTIST,5.0,2932.0,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,683.0, male ,NAN,,2691.0,3.0
+58.0,YES,RESEARCH & DEVELOPMENT,825.0, male ,RESEARCH DIRECTOR,31.0,19246.0,3.0
+34.0,YES, sales ,555.0,FEMALE,NAN,2.0,2351.0,3.0
+41.0, no ,RESEARCH & DEVELOPMENT,1035.0,NAN, research director ,21.0,19973.0,4.0
+39.0, no ,RESEARCH & DEVELOPMENT,429.0,MALE, manager ,21.0,,3.0
+49.0,NO, research & development ,,FEMALE, laboratory technician ,9.0,3211.0,3.0
+,NAN, research & development ,1344.0, male , healthcare representative ,9.0,8500.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1235.0,FEMALE, research scientist ,8.0,4998.0,3.0
+46.0,YES, sales ,118.0, male , sales executive ,9.0,9619.0,
+28.0, yes , nan ,1504.0,MALE, laboratory technician ,0.0,,3.0
+40.0,NO, research & development ,1822.0,NAN,HEALTHCARE REPRESENTATIVE,,6513.0,3.0
+42.0,YES,RESEARCH & DEVELOPMENT,752.0, male ,RESEARCH SCIENTIST,2.0,2759.0,3.0
+58.0, yes ,RESEARCH & DEVELOPMENT,1360.0, female ,MANUFACTURING DIRECTOR,10.0,10008.0,3.0
+28.0,NO,HUMAN RESOURCES,1858.0, male ,HUMAN RESOURCES,3.0,2706.0,3.0
+35.0, no , sales ,406.0,MALE, sales executive ,11.0,,3.0
+, no ,SALES,,FEMALE,SALES EXECUTIVE,14.0,,3.0
+33.0,YES,NAN,325.0, male , laboratory technician ,5.0,2436.0,3.0
+26.0,NO,RESEARCH & DEVELOPMENT,1083.0, male ,LABORATORY TECHNICIAN,5.0,3955.0,3.0
+18.0,YES, research & development ,,MALE, laboratory technician ,0.0,1420.0,3.0
+, no , nan ,1560.0,MALE,SALES EXECUTIVE,2.0,6392.0,3.0
+31.0,NO,SALES,399.0, female ,SALES REPRESENTATIVE,2.0,2789.0,3.0
+33.0, no , research & development ,,FEMALE, research scientist ,8.0,2909.0,3.0
+39.0, nan , research & development ,1654.0,MALE,MANUFACTURING DIRECTOR,5.0,5295.0,4.0
+50.0,NO,SALES,738.0,MALE, sales representative ,2.0,3875.0,
+23.0,NO, research & development ,1982.0, male , laboratory technician ,5.0,2647.0,3.0
+36.0,NO,RESEARCH & DEVELOPMENT,13.0,MALE, nan ,7.0,5237.0,3.0
+43.0, no , research & development ,1813.0,NAN, research scientist ,3.0,2438.0,3.0
+23.0, yes ,SALES,1702.0,MALE,NAN,3.0,2275.0,4.0
+42.0, no ,RESEARCH & DEVELOPMENT,1976.0, male , research scientist ,20.0,,3.0
+26.0,YES, research & development ,622.0,MALE,LABORATORY TECHNICIAN,1.0,2340.0,3.0
+30.0, no ,RESEARCH & DEVELOPMENT,,MALE,LABORATORY TECHNICIAN,5.0,2720.0,3.0
+29.0,NO, research & development ,1150.0,MALE, manufacturing director ,10.0,5056.0,3.0
+54.0,NO,HUMAN RESOURCES,698.0,MALE,HUMAN RESOURCES,9.0,10725.0,3.0
+34.0, no ,SALES,2035.0,FEMALE, sales executive ,8.0,6712.0,4.0
+29.0, nan , nan ,, male ,RESEARCH SCIENTIST,9.0,,
+42.0,NAN,RESEARCH & DEVELOPMENT,605.0,MALE,MANUFACTURING DIRECTOR,10.0,7406.0,4.0
+28.0,NO, sales ,,FEMALE, sales executive ,8.0,4779.0,4.0
+31.0, yes ,RESEARCH & DEVELOPMENT,991.0,MALE,NAN,,2321.0,4.0
+44.0,YES,RESEARCH & DEVELOPMENT,1200.0,NAN, research scientist ,6.0,2936.0,3.0
+,YES, research & development ,1792.0, male ,RESEARCH SCIENTIST,5.0,2342.0,3.0
+44.0, no ,NAN,1523.0,MALE,RESEARCH DIRECTOR,20.0,16328.0,3.0
+29.0,NAN, research & development ,1192.0, nan ,LABORATORY TECHNICIAN,10.0,3131.0,3.0
+27.0,NO,RESEARCH & DEVELOPMENT,1647.0, nan ,RESEARCH SCIENTIST,3.0,3517.0,3.0
+40.0, no , research & development ,1092.0,MALE, healthcare representative ,11.0,10322.0,4.0
+50.0,NO,RESEARCH & DEVELOPMENT,815.0,MALE, research director ,4.0,17639.0,3.0
+30.0,NO, research & development ,292.0, male , manufacturing director ,11.0,8474.0,
+38.0, no , research & development ,2015.0,FEMALE,RESEARCH DIRECTOR,18.0,13206.0,3.0
+34.0,NAN,RESEARCH & DEVELOPMENT,110.0, male ,MANUFACTURING DIRECTOR,5.0,4325.0,3.0
+30.0,NO,RESEARCH & DEVELOPMENT,1015.0,FEMALE,RESEARCH DIRECTOR,8.0,11416.0,3.0
+55.0,NO,RESEARCH & DEVELOPMENT,505.0,FEMALE, nan ,5.0,16659.0,3.0
+31.0, no , sales ,947.0,FEMALE, sales executive ,9.0,6932.0,3.0
+34.0, no ,RESEARCH & DEVELOPMENT,339.0,MALE,MANUFACTURING DIRECTOR,11.0,5957.0,3.0
+34.0, no ,RESEARCH & DEVELOPMENT,339.0,MALE,MANUFACTURING DIRECTOR,11.0,5957.0,3.0
+29.0, no , sales ,1669.0,NAN,SALES EXECUTIVE,10.0,4187.0,
+, no , research & development ,1201.0, female , manager ,7.0,18606.0,3.0
+38.0,NO,RESEARCH & DEVELOPMENT,556.0,MALE, laboratory technician ,,1702.0,4.0
+, no , sales ,106.0,MALE,SALES EXECUTIVE,1.0,10239.0,3.0
+,NO, research & development ,97.0,FEMALE,LABORATORY TECHNICIAN,1.0,3038.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,721.0, female ,HEALTHCARE REPRESENTATIVE,20.0,4553.0,3.0
+33.0,NAN,SALES,1268.0,MALE, sales executive ,,8380.0,3.0
+37.0, nan , research & development ,635.0,FEMALE,MANUFACTURING DIRECTOR,6.0,6447.0,3.0
+38.0, no , research & development ,950.0,NAN,RESEARCH DIRECTOR,15.0,13582.0,3.0
+41.0,NO, research & development ,,MALE,NAN,18.0,4721.0,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,521.0, female , laboratory technician ,1.0,,4.0
+30.0, yes , research & development ,, female ,RESEARCH SCIENTIST,5.0,2132.0,3.0
+, yes , human resources ,1842.0,MALE, human resources ,1.0,,3.0
+42.0,NO, research & development ,551.0, nan ,HEALTHCARE REPRESENTATIVE,6.0,4523.0,3.0
+37.0,NO,RESEARCH & DEVELOPMENT,, female , research director ,,13744.0,4.0
+33.0,YES,RESEARCH & DEVELOPMENT,702.0, male ,RESEARCH SCIENTIST,10.0,3348.0,3.0
+33.0, no , research & development ,1798.0,MALE,RESEARCH SCIENTIST,10.0,3143.0,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,1465.0,MALE,MANUFACTURING DIRECTOR,3.0,9380.0,3.0
+,NO, research & development ,408.0, male ,MANUFACTURING DIRECTOR,4.0,5482.0,3.0
+21.0,NO,NAN,1131.0,FEMALE, research scientist ,2.0,2070.0,3.0
+41.0, no , sales ,599.0, male , sales executive ,14.0,6230.0,3.0
+56.0,NO, nan ,1338.0, male ,MANAGER,7.0,19717.0,3.0
+53.0, no , research & development ,386.0,NAN,NAN,5.0,17584.0,3.0
+37.0, no , research & development ,623.0,FEMALE,MANUFACTURING DIRECTOR,6.0,7491.0,3.0
+35.0,NO, research & development ,381.0,FEMALE,MANAGER,7.0,11996.0,
+31.0, no ,RESEARCH & DEVELOPMENT,524.0, female , manufacturing director ,13.0,4306.0,3.0
+47.0,YES,SALES,,MALE,SALES EXECUTIVE,23.0,12936.0,3.0
+, no , research & development ,634.0, nan , nan ,1.0,9824.0,3.0
+,NO, research & development ,1911.0, male ,NAN,,13348.0,3.0
+36.0, no , research & development ,1651.0, female ,HEALTHCARE REPRESENTATIVE,3.0,8008.0,3.0
+27.0,NO, research & development ,733.0, male , manufacturing director ,9.0,8793.0,4.0
+43.0, yes ,RESEARCH & DEVELOPMENT,1767.0,MALE, research scientist ,1.0,2437.0,3.0
+31.0, no , research & development ,493.0,NAN, research scientist ,2.0,2657.0,3.0
+40.0,NO, research & development ,964.0, male ,RESEARCH SCIENTIST,1.0,3617.0,
+, no , sales ,1466.0,MALE,SALES EXECUTIVE,,5486.0,3.0
+, no , research & development ,1311.0,FEMALE, laboratory technician ,9.0,4627.0,3.0
+37.0, no , research & development ,,MALE, manufacturing director ,4.0,5768.0,3.0
+, no ,SALES,558.0,FEMALE,MANAGER,20.0,18041.0,3.0
+43.0,NO,RESEARCH & DEVELOPMENT,171.0, female ,RESEARCH SCIENTIST,3.0,4739.0,
+26.0, no , research & development ,1018.0, male , manufacturing director ,8.0,5472.0,3.0
+37.0,YES,SALES,970.0,MALE, sales executive ,14.0,10609.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,,FEMALE,RESEARCH SCIENTIST,7.0,5878.0,
+32.0,YES, sales ,631.0,MALE, sales executive ,,4707.0,3.0
+42.0, no , research & development ,809.0,MALE, manager ,24.0,18430.0,3.0
+26.0,NAN, sales ,476.0,NAN, sales executive ,8.0,5296.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1291.0, male ,RESEARCH SCIENTIST,3.0,3506.0,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,1628.0,FEMALE,MANUFACTURING DIRECTOR,18.0,10435.0,3.0
+27.0,NO,SALES,1403.0, female , sales executive ,6.0,5769.0,3.0
+53.0, no , research & development ,1775.0, female ,MANUFACTURING DIRECTOR,3.0,12965.0,4.0
+33.0, nan ,NAN,1207.0,MALE, nan ,,3600.0,3.0
+36.0, no , research & development ,949.0,MALE, research scientist ,6.0,4678.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,1182.0,MALE,MANUFACTURING DIRECTOR,7.0,10274.0,3.0
+39.0,NO, research & development ,1618.0, male ,MANUFACTURING DIRECTOR,7.0,5377.0,3.0
+46.0, no , sales ,62.0, male ,NAN,9.0,5772.0,4.0
+32.0,NO,SALES,1739.0, male ,SALES EXECUTIVE,4.0,9610.0,3.0
+29.0,NO,RESEARCH & DEVELOPMENT,208.0, male , manufacturing director ,10.0,4319.0,3.0
+45.0, no , human resources ,1744.0, female , human resources ,5.0,9756.0,4.0
+46.0, no , research & development ,1789.0, male ,RESEARCH DIRECTOR,2.0,19328.0,
+29.0, yes ,NAN,994.0,FEMALE, research scientist ,0.0,2404.0,4.0
+31.0,NO, sales ,1833.0,FEMALE, nan ,3.0,,3.0
+22.0,NO,RESEARCH & DEVELOPMENT,169.0, male , laboratory technician ,2.0,2523.0,3.0
+26.0, no , research & development ,1918.0, male ,LABORATORY TECHNICIAN,7.0,2544.0,3.0
+45.0,NAN, research & development ,,FEMALE, laboratory technician ,5.0,2270.0,3.0
+22.0, no ,RESEARCH & DEVELOPMENT,511.0, female ,RESEARCH SCIENTIST,2.0,2244.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1297.0, nan , laboratory technician ,7.0,2838.0,3.0
+36.0,NO, sales ,1710.0, female , sales representative ,,4502.0,3.0
+55.0,NO,HUMAN RESOURCES,1973.0, male ,MANAGER,10.0,19636.0,3.0
+31.0,NAN, nan ,1979.0,FEMALE,RESEARCH DIRECTOR,,11031.0,4.0
+24.0, yes ,RESEARCH & DEVELOPMENT,647.0, female ,LABORATORY TECHNICIAN,6.0,2886.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,1751.0,FEMALE,RESEARCH SCIENTIST,6.0,3445.0,3.0
+46.0,NAN, research & development ,550.0,FEMALE, manufacturing director ,10.0,4810.0,
+35.0, no ,SALES,620.0, female ,NAN,5.0,4859.0,3.0
+34.0,NO, sales ,1915.0, female ,SALES EXECUTIVE,4.0,8103.0,3.0
+43.0, nan , research & development ,1971.0,MALE,HEALTHCARE REPRESENTATIVE,10.0,7510.0,3.0
+41.0, nan ,NAN,199.0, nan ,MANAGER,7.0,17181.0,
+27.0,NO, research & development ,1931.0, nan ,RESEARCH SCIENTIST,5.0,2226.0,3.0
+33.0, no , research & development ,305.0,FEMALE, research scientist ,3.0,2622.0,4.0
+39.0,NO, sales ,,MALE, sales executive ,,13341.0,3.0
+40.0, no ,SALES,1212.0, male ,SALES EXECUTIVE,0.0,4327.0,3.0
+59.0, no , research & development ,309.0,MALE,RESEARCH SCIENTIST,1.0,2177.0,3.0
+29.0,NO,RESEARCH & DEVELOPMENT,346.0, male ,RESEARCH SCIENTIST,6.0,2340.0,3.0
+32.0,NO, research & development ,78.0,MALE,MANUFACTURING DIRECTOR,9.0,6162.0,4.0
+35.0, no , research & development ,1728.0,MALE, manufacturing director ,7.0,6883.0,
+24.0, nan ,SALES,1495.0,FEMALE,SALES REPRESENTATIVE,1.0,2033.0,3.0
+30.0, no , nan ,1298.0,FEMALE,MANUFACTURING DIRECTOR,8.0,4695.0,3.0
+56.0,NO, sales ,532.0,FEMALE,SALES EXECUTIVE,7.0,13212.0,3.0
+46.0, no , nan ,363.0, female ,MANAGER,7.0,16872.0,3.0
+45.0, no , nan ,192.0,MALE,RESEARCH SCIENTIST,6.0,3452.0,3.0
+28.0,NO,NAN,377.0,MALE, research scientist ,5.0,2070.0,4.0
+50.0,NO,RESEARCH & DEVELOPMENT,1215.0,FEMALE, manager ,2.0,17856.0,4.0
+,YES, research & development ,1389.0, male ,MANUFACTURING DIRECTOR,10.0,6179.0,3.0
+43.0,NO,RESEARCH & DEVELOPMENT,1599.0,MALE, laboratory technician ,6.0,4876.0,
+34.0,NO, research & development ,1383.0,FEMALE,HEALTHCARE REPRESENTATIVE,14.0,6687.0,3.0
+33.0,NO, sales ,1756.0,FEMALE,SALES EXECUTIVE,11.0,,3.0
+43.0, no ,RESEARCH & DEVELOPMENT,1866.0, female ,MANAGER,16.0,19392.0,3.0
+30.0,NO, research & development ,117.0, male , healthcare representative ,11.0,4152.0,3.0
+, no , research & development ,1954.0, male ,NAN,5.0,5373.0,3.0
+21.0,YES, sales ,, male , sales representative ,1.0,,3.0
+35.0,NAN, research & development ,826.0, female ,RESEARCH SCIENTIST,2.0,2506.0,3.0
+50.0, no , nan ,226.0, female ,MANAGER,5.0,,3.0
+41.0, no , sales ,1909.0,FEMALE,SALES EXECUTIVE,5.0,,4.0
+54.0, no , sales ,1070.0,FEMALE, sales executive ,,10686.0,3.0
+35.0,NO, sales ,1962.0,FEMALE, nan ,10.0,,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1028.0, male , nan ,3.0,3917.0,4.0
+38.0, no ,RESEARCH & DEVELOPMENT,24.0,MALE, research scientist ,3.0,3944.0,3.0
+39.0,YES,SALES,42.0,MALE, sales representative ,1.0,2086.0,3.0
+54.0, no ,NAN,1422.0,FEMALE,RESEARCH DIRECTOR,20.0,17328.0,3.0
+27.0, no , research & development ,844.0, male , research director ,9.0,12808.0,3.0
+33.0,NAN,SALES,1681.0, female ,SALES EXECUTIVE,6.0,5368.0,4.0
+42.0,NO,RESEARCH & DEVELOPMENT,827.0,FEMALE, manufacturing director ,4.0,6062.0,3.0
+26.0,YES, research & development ,55.0, male ,LABORATORY TECHNICIAN,1.0,2293.0,3.0
+42.0,NO,RESEARCH & DEVELOPMENT,1148.0, male , laboratory technician ,1.0,4272.0,3.0
+, no ,RESEARCH & DEVELOPMENT,547.0,FEMALE,RESEARCH SCIENTIST,5.0,4556.0,3.0
+46.0, no ,SALES,1204.0,FEMALE,MANAGER,26.0,17048.0,4.0
+27.0,NO, research & development ,1162.0,MALE,RESEARCH SCIENTIST,4.0,2539.0,3.0
+45.0, nan ,SALES,1045.0,FEMALE,MANAGER,9.0,17650.0,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,1553.0,NAN, healthcare representative ,10.0,7441.0,
+52.0, no ,NAN,316.0, female , laboratory technician ,,3212.0,3.0
+42.0, no ,RESEARCH & DEVELOPMENT,1542.0,MALE, laboratory technician ,1.0,4841.0,3.0
+37.0,NO, sales ,868.0,MALE, sales executive ,1.0,6334.0,3.0
+41.0, yes ,SALES,488.0,MALE, sales executive ,8.0,,3.0
+37.0, no ,RESEARCH & DEVELOPMENT,518.0, nan ,MANUFACTURING DIRECTOR,1.0,4197.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,1322.0,MALE,MANUFACTURING DIRECTOR,8.0,4534.0,3.0
+31.0,NO, sales ,,FEMALE, sales executive ,12.0,5468.0,3.0
+,NO,RESEARCH & DEVELOPMENT,286.0,FEMALE,NAN,8.0,,3.0
+43.0,NO, research & development ,1402.0,FEMALE, nan ,20.0,,
+31.0, no , research & development ,308.0, male , manufacturing director ,5.0,4345.0,3.0
+37.0, nan , research & development ,,FEMALE,LABORATORY TECHNICIAN,18.0,3034.0,3.0
+34.0, yes ,HUMAN RESOURCES,590.0, female ,HUMAN RESOURCES,3.0,9950.0,3.0
+36.0, nan , sales ,2045.0,FEMALE,SALES EXECUTIVE,6.0,6652.0,3.0
+25.0,NO, sales ,781.0, female , sales executive ,6.0,6180.0,4.0
+31.0,NO,HUMAN RESOURCES,424.0, nan ,HUMAN RESOURCES,2.0,6410.0,
+36.0,NO, research & development ,1614.0, female ,MANUFACTURING DIRECTOR,,4663.0,3.0
+27.0, no , research & development ,1001.0, female , laboratory technician ,2.0,2811.0,3.0
+45.0,YES,SALES,684.0, female ,SALES EXECUTIVE,1.0,,3.0
+23.0, no , research & development ,705.0, nan , research scientist ,3.0,,3.0
+35.0, yes , sales ,1667.0,MALE,SALES EXECUTIVE,11.0,4581.0,4.0
+54.0, no ,NAN,1250.0, male , research director ,10.0,17779.0,
+51.0,NAN, research & development ,116.0,MALE,LABORATORY TECHNICIAN,,2075.0,4.0
+26.0,YES, research & development ,394.0, male ,NAN,3.0,2373.0,3.0
+29.0,YES,SALES,1487.0, female ,SALES EXECUTIVE,5.0,5765.0,3.0
+36.0,NO,RESEARCH & DEVELOPMENT,2061.0, male ,NAN,5.0,2571.0,3.0
+32.0,YES, research & development ,1309.0, male ,LABORATORY TECHNICIAN,10.0,,
+40.0,NO, research & development ,1128.0, male ,NAN,20.0,19626.0,3.0
+37.0,NO,RESEARCH & DEVELOPMENT,689.0, male ,MANUFACTURING DIRECTOR,,9434.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1587.0,FEMALE,HEALTHCARE REPRESENTATIVE,5.0,6142.0,3.0
+28.0,NO, research & development ,, female , manufacturing director ,9.0,7655.0,3.0
+37.0,NO, research & development ,306.0, male ,RESEARCH DIRECTOR,10.0,12185.0,3.0
+58.0, no ,RESEARCH & DEVELOPMENT,422.0, male , healthcare representative ,5.0,5660.0,3.0
+21.0,YES, sales ,,FEMALE,SALES REPRESENTATIVE,3.0,2174.0,3.0
+40.0,NO, research & development ,1474.0, nan ,RESEARCH SCIENTIST,3.0,2345.0,3.0
+, no ,RESEARCH & DEVELOPMENT,887.0, nan ,RESEARCH SCIENTIST,,3580.0,3.0
+50.0, no ,SALES,174.0, female , sales executive ,2.0,9208.0,3.0
+41.0,NO, human resources ,731.0,NAN,MANAGER,21.0,19141.0,3.0
+44.0, no , research & development ,1703.0,FEMALE,HEALTHCARE REPRESENTATIVE,8.0,7879.0,3.0
+31.0,NO,RESEARCH & DEVELOPMENT,2057.0,MALE,MANUFACTURING DIRECTOR,9.0,9936.0,3.0
+30.0, no ,SALES,1179.0, male , sales executive ,10.0,6578.0,3.0
+40.0,NO,RESEARCH & DEVELOPMENT,1468.0,MALE,RESEARCH DIRECTOR,9.0,,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1826.0,MALE, nan ,5.0,2705.0,3.0
+45.0, no ,SALES,1117.0, nan ,SALES EXECUTIVE,15.0,5593.0,3.0
+27.0,NO, research & development ,218.0,MALE, nan ,2.0,2024.0,3.0
+32.0,NO,RESEARCH & DEVELOPMENT,1720.0,MALE, research scientist ,5.0,3433.0,3.0
+36.0,NO,RESEARCH & DEVELOPMENT,419.0,FEMALE,LABORATORY TECHNICIAN,9.0,5674.0,3.0
+37.0, nan ,SALES,1700.0,MALE, nan ,6.0,9525.0,3.0
+28.0, no , research & development ,221.0,MALE,RESEARCH SCIENTIST,5.0,2713.0,3.0
+22.0,NAN, research & development ,675.0, male ,RESEARCH SCIENTIST,2.0,2773.0,4.0
+46.0,NO,SALES,1732.0, nan , sales executive ,10.0,10368.0,3.0
+26.0,NO,SALES,2060.0,FEMALE, sales representative ,4.0,2966.0,3.0
+,NO,SALES,889.0,MALE,SALES EXECUTIVE,10.0,6524.0,3.0
+36.0,NAN, sales ,2024.0,FEMALE,SALES EXECUTIVE,9.0,7644.0,3.0
+35.0, no , research & development ,586.0,MALE, healthcare representative ,8.0,7632.0,3.0
+53.0, no , nan ,862.0, female , sales executive ,5.0,10934.0,3.0
+,NO, research & development ,417.0,NAN,HEALTHCARE REPRESENTATIVE,18.0,9613.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,, male ,LABORATORY TECHNICIAN,10.0,3407.0,3.0
+53.0, no , sales ,897.0,MALE,SALES EXECUTIVE,2.0,,3.0
+42.0, no , research & development ,591.0,MALE, laboratory technician ,2.0,2093.0,3.0
+31.0, no ,NAN,1011.0, female ,MANUFACTURING DIRECTOR,,,
+, yes , nan ,445.0, female , sales executive ,1.0,5238.0,3.0
+38.0, no , research & development ,1766.0,NAN,HEALTHCARE REPRESENTATIVE,1.0,5811.0,3.0
+36.0, yes ,RESEARCH & DEVELOPMENT,1052.0, male ,LABORATORY TECHNICIAN,1.0,4834.0,
+45.0,NO,SALES,783.0, male , sales representative ,8.0,6632.0,3.0
+55.0,NO, research & development ,1034.0,MALE, healthcare representative ,8.0,6385.0,3.0
+29.0, yes ,HUMAN RESOURCES,1844.0, male ,HUMAN RESOURCES,2.0,2335.0,3.0
+28.0,YES,RESEARCH & DEVELOPMENT,364.0, nan ,LABORATORY TECHNICIAN,0.0,3485.0,3.0
+38.0, no ,RESEARCH & DEVELOPMENT,, female ,LABORATORY TECHNICIAN,0.0,3306.0,3.0
+35.0, no , research & development ,1728.0,MALE, manufacturing director ,7.0,6883.0,
+52.0,NO, sales ,776.0,MALE,MANAGER,34.0,16856.0,3.0
+27.0,NO,SALES,, male , sales executive ,,6349.0,3.0
+40.0, no ,RESEARCH & DEVELOPMENT,335.0, male ,RESEARCH SCIENTIST,9.0,3319.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,499.0,NAN,HEALTHCARE REPRESENTATIVE,5.0,10965.0,4.0
+37.0, no , sales ,378.0, male , sales executive ,5.0,6502.0,3.0
+31.0,YES,RESEARCH & DEVELOPMENT,1459.0,FEMALE,MANUFACTURING DIRECTOR,10.0,7446.0,3.0
+55.0,YES, research & development ,787.0, male , manager ,5.0,,3.0
+26.0,NO, research & development ,1177.0,MALE,LABORATORY TECHNICIAN,8.0,,4.0
+30.0, nan , research & development ,239.0,MALE,LABORATORY TECHNICIAN,,3072.0,3.0
+35.0, no , research & development ,1529.0, female , healthcare representative ,,8606.0,3.0
+29.0,NO,RESEARCH & DEVELOPMENT,20.0,FEMALE, manufacturing director ,10.0,9980.0,3.0
+28.0,NO,RESEARCH & DEVELOPMENT,1216.0, nan , laboratory technician ,6.0,3196.0,3.0
+, no , sales ,382.0, female ,SALES EXECUTIVE,,,4.0
+38.0, no ,RESEARCH & DEVELOPMENT,724.0, female , healthcare representative ,9.0,7625.0,3.0
+, no , research & development ,,FEMALE,NAN,16.0,10388.0,3.0
+21.0, yes ,RESEARCH & DEVELOPMENT,1079.0,FEMALE, laboratory technician ,1.0,1416.0,3.0
+27.0,NAN,NAN,1850.0,FEMALE, laboratory technician ,5.0,2379.0,
+51.0,NO, research & development ,211.0, nan ,MANUFACTURING DIRECTOR,1.0,6132.0,3.0
+36.0, no ,SALES,990.0,MALE,SALES EXECUTIVE,7.0,,3.0
+32.0,NO,RESEARCH & DEVELOPMENT,679.0, female , research scientist ,6.0,6322.0,3.0
+34.0, no , research & development ,1696.0,MALE,LABORATORY TECHNICIAN,15.0,3986.0,3.0
+31.0,NO,SALES,941.0, male , sales representative ,7.0,2329.0,3.0
+32.0,NO, research & development ,1046.0, female ,LABORATORY TECHNICIAN,8.0,4025.0,3.0
+29.0,NO,SALES,469.0,MALE, sales executive ,4.0,4649.0,3.0
+34.0,NO, nan ,1658.0,FEMALE, research scientist ,11.0,5433.0,3.0
+37.0,YES, nan ,1033.0, nan , healthcare representative ,1.0,4777.0,
+, no , research & development ,1803.0,MALE, healthcare representative ,,5538.0,3.0
+33.0,NO,SALES,52.0, female ,SALES EXECUTIVE,5.0,5376.0,3.0
+36.0, no , research & development ,823.0, female , manufacturing director ,9.0,5228.0,3.0
+, no , research & development ,1608.0,NAN, research director ,22.0,19049.0,3.0
+,NO, research & development ,1974.0, female ,LABORATORY TECHNICIAN,1.0,1129.0,3.0
+29.0, yes , research & development ,, male , research scientist ,1.0,2439.0,4.0
+, no , sales ,2013.0, male , sales representative ,2.0,2269.0,3.0
+21.0,NO, research & development ,30.0, male , research scientist ,0.0,1232.0,3.0
+30.0,NO, research & development ,441.0,FEMALE, research scientist ,10.0,5775.0,3.0
+44.0, no , research & development ,1246.0, female , research scientist ,10.0,2011.0,3.0
+36.0,NO,RESEARCH & DEVELOPMENT,1133.0, male , manufacturing director ,11.0,7779.0,4.0
+52.0, nan , research & development ,1401.0, female ,MANUFACTURING DIRECTOR,,13247.0,3.0
+34.0,YES, human resources ,1467.0, female , human resources ,2.0,2742.0,3.0
+49.0, no , sales ,1757.0,FEMALE, sales executive ,5.0,4507.0,3.0
+34.0, no , research & development ,1485.0, male ,RESEARCH DIRECTOR,14.0,17007.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,88.0, male , research scientist ,3.0,2194.0,3.0
+45.0,NO, sales ,1845.0, female ,SALES EXECUTIVE,8.0,5154.0,4.0
+38.0, no ,RESEARCH & DEVELOPMENT,461.0, male , research director ,11.0,11510.0,3.0
+52.0,YES,SALES,1319.0,NAN,NAN,8.0,8446.0,3.0
+19.0,NO, research & development ,1269.0, female ,RESEARCH SCIENTIST,1.0,,3.0
+44.0,NO,SALES,1481.0,FEMALE,SALES EXECUTIVE,1.0,4768.0,3.0
+,NO,RESEARCH & DEVELOPMENT,197.0, female ,RESEARCH SCIENTIST,3.0,3204.0,
+56.0, no ,RESEARCH & DEVELOPMENT,, male ,MANUFACTURING DIRECTOR,19.0,13402.0,3.0
+35.0, no , research & development ,942.0,FEMALE, healthcare representative ,10.0,4014.0,4.0
+37.0,NO,RESEARCH & DEVELOPMENT,267.0, male , research scientist ,8.0,3564.0,3.0
+25.0, yes , sales ,952.0,MALE, nan ,1.0,2413.0,3.0
+20.0, yes ,RESEARCH & DEVELOPMENT,960.0, male ,LABORATORY TECHNICIAN,1.0,2973.0,3.0
+30.0, nan , research & development ,1224.0, nan , laboratory technician ,10.0,3491.0,3.0
+18.0, nan ,SALES,411.0,FEMALE, sales representative ,0.0,1200.0,3.0
+38.0,NO,SALES,1995.0, male , sales executive ,15.0,4440.0,3.0
+55.0, no , research & development ,1501.0, male , healthcare representative ,,4035.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,85.0, male , manufacturing director ,6.0,6499.0,3.0
+45.0,NAN,RESEARCH & DEVELOPMENT,1460.0,MALE, healthcare representative ,7.0,10851.0,3.0
+25.0,NO,NAN,885.0,MALE,SALES EXECUTIVE,,4256.0,3.0
+,NAN, sales ,1996.0, male , sales representative ,2.0,,3.0
+34.0, no , research & development ,1932.0, male ,NAN,15.0,5747.0,
+22.0, no ,NAN,872.0, male , manufacturing director ,2.0,4775.0,4.0
+33.0,NO,SALES,1924.0,MALE,SALES EXECUTIVE,10.0,,3.0
+28.0, no ,RESEARCH & DEVELOPMENT,1286.0, male , laboratory technician ,4.0,2154.0,
+39.0,NO, research & development ,444.0, male ,MANAGER,21.0,19272.0,3.0
+38.0, no ,RESEARCH & DEVELOPMENT,1638.0,FEMALE,MANUFACTURING DIRECTOR,5.0,7756.0,3.0
+32.0, no , research & development ,882.0, male , laboratory technician ,3.0,,3.0
+27.0,NO,RESEARCH & DEVELOPMENT,700.0, male ,RESEARCH SCIENTIST,4.0,2045.0,3.0
+45.0,NO, research & development ,1546.0,MALE,RESEARCH SCIENTIST,5.0,2132.0,4.0
+35.0,NO, sales ,1554.0,FEMALE,SALES REPRESENTATIVE,,2430.0,4.0
+32.0, yes ,RESEARCH & DEVELOPMENT,331.0, male , laboratory technician ,3.0,3730.0,3.0
+, nan , research & development ,338.0,FEMALE,RESEARCH SCIENTIST,2.0,2911.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,771.0,FEMALE, nan ,1.0,5093.0,3.0
+41.0,NAN,RESEARCH & DEVELOPMENT,1999.0,MALE,RESEARCH SCIENTIST,5.0,2782.0,4.0
+30.0,NO, sales ,1211.0, male , sales executive ,4.0,4115.0,3.0
+34.0, no , sales ,60.0,MALE,SALES EXECUTIVE,9.0,4568.0,4.0
+40.0, no ,RESEARCH & DEVELOPMENT,1346.0, male ,RESEARCH SCIENTIST,9.0,4661.0,3.0
+35.0,NO, sales ,1492.0, male , sales representative ,1.0,2404.0,3.0
+39.0, no , research & development ,1800.0,MALE,NAN,4.0,13464.0,4.0
+28.0, no ,RESEARCH & DEVELOPMENT,1102.0,MALE, laboratory technician ,4.0,2207.0,
+,NO,RESEARCH & DEVELOPMENT,807.0, female ,HEALTHCARE REPRESENTATIVE,8.0,4244.0,4.0
+54.0, no ,RESEARCH & DEVELOPMENT,799.0,FEMALE,MANUFACTURING DIRECTOR,5.0,5485.0,3.0
+42.0, nan ,SALES,936.0,FEMALE, sales executive ,5.0,,
+, no , sales ,1135.0, male , sales representative ,2.0,2791.0,3.0
+29.0,NAN, human resources ,1865.0, male ,HUMAN RESOURCES,1.0,2804.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,1948.0, male ,RESEARCH SCIENTIST,4.0,3065.0,3.0
+60.0, no ,RESEARCH & DEVELOPMENT,549.0,FEMALE, manager ,29.0,19566.0,3.0
+29.0,NO, research & development ,, male ,NAN,,4262.0,3.0
+51.0,NO, research & development ,, male , research director ,10.0,12490.0,3.0
+, no , research & development ,1430.0,FEMALE, research director ,3.0,16422.0,3.0
+26.0,NAN, research & development ,510.0, male ,RESEARCH SCIENTIST,6.0,3102.0,4.0
+43.0, no , human resources ,1778.0,MALE, human resources ,,3539.0,3.0
+32.0,NAN,NAN,, male , laboratory technician ,1.0,2795.0,4.0
+32.0, no , sales ,207.0,NAN, sales executive ,9.0,8998.0,3.0
+42.0, no , research & development ,1860.0, male , laboratory technician ,0.0,3968.0,3.0
+37.0, no , sales ,626.0, male , sales executive ,,8834.0,3.0
+56.0,NO,RESEARCH & DEVELOPMENT,1191.0, female , manager ,5.0,19943.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1317.0, female ,RESEARCH DIRECTOR,3.0,16880.0,3.0
+23.0, no ,RESEARCH & DEVELOPMENT,1270.0, male ,RESEARCH SCIENTIST,1.0,,4.0
+20.0, no ,RESEARCH & DEVELOPMENT,657.0,FEMALE, research scientist ,1.0,2836.0,3.0
+58.0, no ,RESEARCH & DEVELOPMENT,214.0,FEMALE, research scientist ,1.0,3346.0,4.0
+35.0, no , research & development ,2008.0, male , nan ,10.0,5098.0,
+57.0,NO, research & development ,223.0,MALE, healthcare representative ,,9439.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,439.0,FEMALE,RESEARCH SCIENTIST,7.0,5055.0,3.0
+34.0, no , research & development ,,MALE,LABORATORY TECHNICIAN,1.0,2008.0,3.0
+,NO,RESEARCH & DEVELOPMENT,997.0,NAN, research director ,5.0,17399.0,4.0
+40.0, nan ,RESEARCH & DEVELOPMENT,1375.0, female , healthcare representative ,12.0,6377.0,4.0
+33.0,NO,HUMAN RESOURCES,910.0,MALE, human resources ,,2277.0,3.0
+45.0,NO, research & development ,452.0,MALE,RESEARCH SCIENTIST,10.0,3697.0,
+51.0,NO, sales ,120.0, male ,SALES EXECUTIVE,10.0,5441.0,
+, no ,RESEARCH & DEVELOPMENT,1030.0,MALE,LABORATORY TECHNICIAN,1.0,2380.0,3.0
+38.0,NO,SALES,709.0, female ,SALES EXECUTIVE,7.0,4028.0,
+22.0, no , research & development ,,FEMALE, laboratory technician ,0.0,2871.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,53.0,MALE,LABORATORY TECHNICIAN,1.0,,3.0
+55.0, no ,RESEARCH & DEVELOPMENT,1278.0,MALE,HEALTHCARE REPRESENTATIVE,33.0,13577.0,3.0
+23.0, nan , research & development ,, male ,LABORATORY TECHNICIAN,4.0,,3.0
+33.0, no ,RESEARCH & DEVELOPMENT,1515.0, male ,HEALTHCARE REPRESENTATIVE,0.0,6388.0,3.0
+25.0,NO, nan ,1987.0, female , human resources ,2.0,,3.0
+45.0,NO,RESEARCH & DEVELOPMENT,1888.0, female ,MANUFACTURING DIRECTOR,9.0,5906.0,3.0
+42.0,NO, research & development ,875.0, male ,RESEARCH SCIENTIST,2.0,2515.0,3.0
+45.0, nan ,RESEARCH & DEVELOPMENT,86.0,MALE,RESEARCH SCIENTIST,1.0,9724.0,3.0
+32.0,NO,SALES,195.0,MALE, sales executive ,8.0,4668.0,
+34.0,NO, nan ,621.0,MALE, sales executive ,10.0,5337.0,3.0
+43.0,NO, research & development ,520.0,MALE,RESEARCH DIRECTOR,25.0,14336.0,3.0
+31.0, no , research & development ,76.0, male ,LABORATORY TECHNICIAN,,5915.0,4.0
+,YES, sales ,1691.0,FEMALE, sales representative ,9.0,2655.0,3.0
+29.0,YES,SALES,1165.0,FEMALE,SALES EXECUTIVE,11.0,7336.0,3.0
+20.0, no ,RESEARCH & DEVELOPMENT,657.0,FEMALE, research scientist ,1.0,2836.0,3.0
+40.0,NAN, research & development ,1361.0,NAN,LABORATORY TECHNICIAN,4.0,2387.0,
+, no , research & development ,1407.0, male ,RESEARCH SCIENTIST,4.0,3904.0,3.0
+32.0, no , research & development ,2038.0,MALE, research scientist ,4.0,,3.0
+33.0, yes , sales ,819.0, female , sales executive ,3.0,5324.0,
+38.0,YES,NAN,1573.0,MALE, manufacturing director ,5.0,4855.0,3.0
+52.0, no ,RESEARCH & DEVELOPMENT,543.0,MALE, manufacturing director ,5.0,7969.0,3.0
+39.0, no ,NAN,1936.0,MALE,MANUFACTURING DIRECTOR,10.0,5151.0,4.0
+34.0,NAN,RESEARCH & DEVELOPMENT,757.0,FEMALE,HEALTHCARE REPRESENTATIVE,5.0,6142.0,3.0
+50.0, yes , sales ,1113.0, male , sales executive ,0.0,4728.0,3.0
+27.0,YES, sales ,667.0,MALE,SALES REPRESENTATIVE,4.0,3041.0,3.0
+46.0, no ,SALES,,FEMALE, sales executive ,24.0,10453.0,4.0
+45.0,NO,RESEARCH & DEVELOPMENT,425.0, male ,LABORATORY TECHNICIAN,24.0,5210.0,3.0
+32.0, no ,RESEARCH & DEVELOPMENT,1516.0,MALE,MANAGER,5.0,11244.0,4.0
+55.0, no , research & development ,374.0, male ,MANAGER,36.0,19045.0,3.0
+35.0, yes , research & development ,1569.0,FEMALE, laboratory technician ,1.0,2074.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,,MALE, laboratory technician ,5.0,2426.0,3.0
+43.0, nan ,RESEARCH & DEVELOPMENT,663.0,MALE, laboratory technician ,8.0,5679.0,3.0
+48.0, no , sales ,1557.0, female ,SALES EXECUTIVE,8.0,6439.0,3.0
+45.0, no , sales ,,NAN,SALES EXECUTIVE,10.0,4385.0,3.0
+, yes ,SALES,1876.0, male ,NAN,1.0,1081.0,3.0
+,NAN, research & development ,468.0,FEMALE, research director ,1.0,,3.0
+42.0,NO, research & development ,, female , research scientist ,1.0,2372.0,3.0
+34.0,YES, human resources ,1467.0, female , human resources ,2.0,2742.0,3.0
+50.0,NO,RESEARCH & DEVELOPMENT,1539.0,MALE,RESEARCH DIRECTOR,,14411.0,3.0
+37.0, no ,RESEARCH & DEVELOPMENT,802.0, female ,NAN,5.0,2782.0,3.0
+51.0, no ,SALES,1391.0, male , nan ,4.0,10596.0,3.0
+35.0,NO,RESEARCH & DEVELOPMENT,880.0,FEMALE,NAN,17.0,10685.0,4.0
+45.0,NO,SALES,302.0, female , nan ,19.0,8865.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1382.0,MALE, nan ,4.0,2610.0,3.0
+, no ,RESEARCH & DEVELOPMENT,98.0,FEMALE,MANUFACTURING DIRECTOR,11.0,4424.0,4.0
+34.0,NO, nan ,838.0,FEMALE, research scientist ,5.0,2553.0,3.0
+32.0,YES,RESEARCH & DEVELOPMENT,33.0,FEMALE, research scientist ,10.0,3919.0,4.0
+52.0,NO, research & development ,813.0, female ,LABORATORY TECHNICIAN,5.0,3149.0,4.0
+35.0, no , research & development ,856.0, female ,RESEARCH SCIENTIST,6.0,2559.0,3.0
+41.0, nan , sales ,625.0, female , manager ,18.0,16595.0,3.0
+24.0,NAN, sales ,632.0, nan , sales representative ,2.0,2400.0,3.0
+44.0, no , research & development ,1206.0, male ,RESEARCH SCIENTIST,0.0,2290.0,3.0
+,YES,SALES,27.0, male ,SALES REPRESENTATIVE,5.0,3407.0,
+30.0, nan ,NAN,1816.0, female , manufacturing director ,7.0,9667.0,3.0
+24.0,NO, human resources ,1746.0, male ,HUMAN RESOURCES,2.0,2145.0,3.0
+50.0,NO,RESEARCH & DEVELOPMENT,1061.0,MALE,RESEARCH DIRECTOR,8.0,19237.0,3.0
+, nan , sales ,864.0, nan ,SALES EXECUTIVE,5.0,10761.0,3.0
+37.0,NO, nan ,77.0,MALE,MANUFACTURING DIRECTOR,7.0,5993.0,3.0
+30.0, nan ,SALES,1562.0, male , sales executive ,,9714.0,3.0
+44.0,NO, research & development ,1288.0, male , manager ,25.0,19190.0,3.0
+27.0, no , sales ,1371.0, male ,SALES EXECUTIVE,6.0,5071.0,4.0
+31.0,NO, research & development ,442.0,FEMALE,MANUFACTURING DIRECTOR,10.0,8943.0,4.0
+25.0,YES, research & development ,538.0, male ,NAN,2.0,4031.0,
+24.0,YES,HUMAN RESOURCES,1714.0,MALE,HUMAN RESOURCES,1.0,,
+35.0, no ,SALES,204.0, nan , sales executive ,10.0,7295.0,3.0
+46.0,NO,SALES,1732.0, nan , sales executive ,10.0,10368.0,3.0
+37.0,NO, sales ,152.0, nan , nan ,5.0,,3.0
+18.0,NAN,RESEARCH & DEVELOPMENT,1839.0,FEMALE,RESEARCH SCIENTIST,0.0,1514.0,3.0
+39.0,NAN, research & development ,2014.0, male ,RESEARCH SCIENTIST,7.0,4108.0,3.0
+26.0, no , nan ,641.0,MALE,SALES EXECUTIVE,5.0,,4.0
+59.0, no , research & development ,1032.0,FEMALE, nan ,5.0,13726.0,3.0
+44.0,NO, sales ,1267.0, male ,MANAGER,22.0,18213.0,3.0
+28.0, no , research & development ,,MALE,MANUFACTURING DIRECTOR,8.0,6549.0,3.0
+18.0, no ,RESEARCH & DEVELOPMENT,1368.0, female ,LABORATORY TECHNICIAN,,1611.0,3.0
+27.0, no , research & development ,, male , research scientist ,5.0,2517.0,
+41.0, nan , human resources ,734.0, male , manager ,22.0,19189.0,
+27.0, no , research & development ,497.0,MALE,LABORATORY TECHNICIAN,5.0,3816.0,3.0
+41.0, no , sales ,1678.0, male , sales executive ,2.0,7082.0,3.0
+44.0, no ,RESEARCH & DEVELOPMENT,913.0, male , research scientist ,8.0,,3.0
+, no , research & development ,1885.0,MALE, research scientist ,5.0,4284.0,4.0
+37.0, no ,RESEARCH & DEVELOPMENT,,MALE, research scientist ,1.0,4680.0,3.0
+20.0, no ,SALES,1680.0,MALE,NAN,2.0,2728.0,3.0
+32.0,NO,SALES,330.0, female ,SALES REPRESENTATIVE,4.0,3931.0,3.0
+30.0,NO, sales ,1568.0, male , sales executive ,4.0,9250.0,3.0
+30.0, no , research & development ,41.0, male ,LABORATORY TECHNICIAN,10.0,2206.0,3.0
+45.0,NO, research & development ,206.0, male , laboratory technician ,17.0,2348.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,1736.0,FEMALE,MANUFACTURING DIRECTOR,5.0,,
+28.0,NO,SALES,1469.0, male ,SALES EXECUTIVE,5.0,8463.0,3.0
+41.0, no ,HUMAN RESOURCES,1722.0,NAN, human resources ,3.0,6430.0,3.0
+36.0,NO,SALES,1362.0,FEMALE, sales executive ,15.0,4639.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1012.0,NAN, research scientist ,0.0,1051.0,3.0
+55.0, nan ,RESEARCH & DEVELOPMENT,, male ,RESEARCH SCIENTIST,5.0,2662.0,4.0
+, no ,RESEARCH & DEVELOPMENT,1997.0, male , manufacturing director ,8.0,5321.0,3.0
+39.0,NO,RESEARCH & DEVELOPMENT,,FEMALE,HEALTHCARE REPRESENTATIVE,19.0,10938.0,4.0
+34.0, yes , sales ,502.0,MALE, sales executive ,5.0,5304.0,3.0
+43.0, no ,RESEARCH & DEVELOPMENT,, male , laboratory technician ,3.0,2258.0,4.0
+28.0, no , sales ,1056.0, male ,SALES REPRESENTATIVE,1.0,1052.0,4.0
+44.0, no ,HUMAN RESOURCES,665.0,FEMALE,HUMAN RESOURCES,,5985.0,3.0
+37.0,NO,SALES,656.0, male ,SALES EXECUTIVE,3.0,9602.0,3.0
+30.0,NO,SALES,508.0, male , sales representative ,,2476.0,3.0
+40.0,NO, sales ,1066.0, male , sales executive ,7.0,8396.0,
+34.0,NO,RESEARCH & DEVELOPMENT,797.0,FEMALE, research scientist ,4.0,3280.0,
+30.0,NO,SALES,567.0,FEMALE, sales executive ,9.0,8412.0,3.0
+33.0,NO,NAN,1502.0,FEMALE, laboratory technician ,,3838.0,3.0
+29.0, no , research & development ,1264.0,FEMALE,RESEARCH DIRECTOR,7.0,16124.0,
+35.0,NO, research & development ,1412.0,MALE, manufacturing director ,2.0,9362.0,3.0
+49.0,NO,NAN,2065.0, male ,SALES EXECUTIVE,9.0,5390.0,3.0
+26.0, nan ,RESEARCH & DEVELOPMENT,686.0,FEMALE,NAN,3.0,2659.0,3.0
+27.0,NO,RESEARCH & DEVELOPMENT,434.0, female ,RESEARCH SCIENTIST,4.0,,3.0
+47.0, no ,SALES,1731.0, male , sales executive ,1.0,4978.0,3.0
+43.0,NO,RESEARCH & DEVELOPMENT,902.0, female , healthcare representative ,,5562.0,3.0
+40.0, no , nan ,483.0,FEMALE, laboratory technician ,7.0,2213.0,
+36.0, no ,SALES,1880.0,FEMALE, sales executive ,10.0,5673.0,3.0
+42.0,NO,SALES,1029.0,MALE,MANAGER,1.0,18303.0,3.0
+40.0,NO,NAN,615.0, male ,SALES EXECUTIVE,1.0,10932.0,3.0
+18.0,YES,RESEARCH & DEVELOPMENT,,MALE,LABORATORY TECHNICIAN,0.0,1904.0,3.0
+39.0, no ,NAN,1812.0, male ,SALES EXECUTIVE,2.0,4127.0,3.0
+34.0,NO,SALES,1774.0,MALE,SALES EXECUTIVE,15.0,4001.0,3.0
+45.0, no , sales ,240.0,FEMALE,SALES EXECUTIVE,5.0,5006.0,
+42.0, no , nan ,1242.0,FEMALE, research director ,1.0,,3.0
+, no ,SALES,1657.0, nan , sales representative ,2.0,2783.0,3.0
+, no , research & development ,12.0, male , manufacturing director ,9.0,9526.0,4.0
+35.0, no ,RESEARCH & DEVELOPMENT,1172.0, male , laboratory technician ,8.0,2258.0,3.0
+44.0,NO,RESEARCH & DEVELOPMENT,671.0,MALE, manager ,,19513.0,3.0
+,NO, research & development ,1394.0,MALE,RESEARCH SCIENTIST,6.0,2996.0,3.0
+40.0,NO, research & development ,1829.0,NAN, healthcare representative ,7.0,4448.0,
+46.0,NO, research & development ,1007.0, male ,MANUFACTURING DIRECTOR,8.0,10845.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1022.0, male ,HEALTHCARE REPRESENTATIVE,,4240.0,
+30.0, no , research & development ,548.0, female , nan ,5.0,6091.0,4.0
+43.0,NO, sales ,327.0, female ,MANAGER,17.0,16064.0,4.0
+35.0, no , nan ,2052.0,FEMALE,RESEARCH SCIENTIST,4.0,2977.0,3.0
+,NO, nan ,,MALE,RESEARCH SCIENTIST,1.0,3072.0,3.0
+33.0, no ,RESEARCH & DEVELOPMENT,692.0,MALE,HEALTHCARE REPRESENTATIVE,13.0,7725.0,4.0
+27.0,NO,SALES,1965.0,MALE,SALES EXECUTIVE,7.0,4105.0,3.0
+53.0,NO, research & development ,901.0, female , research director ,12.0,,3.0
+33.0, no , research & development ,1545.0,MALE,MANUFACTURING DIRECTOR,5.0,4320.0,3.0
+35.0, no , research & development ,845.0,MALE,MANUFACTURING DIRECTOR,8.0,,4.0
+36.0, nan , sales ,1436.0,FEMALE, sales executive ,3.0,5647.0,3.0
+51.0,NO, nan ,1352.0, male , manager ,33.0,14026.0,3.0
+25.0,NO, research & development ,1415.0, male , laboratory technician ,3.0,3229.0,
+23.0,NO, research & development ,465.0, male ,RESEARCH SCIENTIST,4.0,2904.0,3.0
+53.0, nan ,NAN,1050.0, female ,SALES EXECUTIVE,15.0,7525.0,3.0
+51.0,NO, research & development ,1367.0,FEMALE, manufacturing director ,5.0,13142.0,3.0
+19.0, nan , research & development ,,FEMALE, laboratory technician ,1.0,1483.0,3.0
+,NO, sales ,, male , sales executive ,10.0,7823.0,3.0
+30.0,NO, research & development ,1241.0, male ,RESEARCH SCIENTIST,11.0,3579.0,4.0
+27.0,NO, sales ,1898.0, female ,SALES EXECUTIVE,8.0,6500.0,3.0
+44.0,NO,RESEARCH & DEVELOPMENT,1225.0,NAN, research scientist ,20.0,4541.0,4.0
+34.0, nan , nan ,,MALE, laboratory technician ,7.0,5346.0,3.0
+28.0,NO, sales ,498.0, male , sales executive ,7.0,5253.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1525.0,FEMALE,MANUFACTURING DIRECTOR,2.0,8376.0,3.0
+50.0,NO,RESEARCH & DEVELOPMENT,141.0,FEMALE, research director ,8.0,18172.0,3.0
+30.0, no , research & development ,1763.0, male , healthcare representative ,7.0,5294.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,,NAN, research scientist ,,4249.0,3.0
+25.0,NO, research & development ,,MALE,MANUFACTURING DIRECTOR,,5206.0,3.0
+55.0, no , sales ,1578.0,MALE, manager ,36.0,19586.0,4.0
+59.0, no ,SALES,1254.0, female ,NAN,6.0,5171.0,3.0
+37.0,NO, research & development ,403.0, male , research scientist ,4.0,2326.0,3.0
+31.0,NO,RESEARCH & DEVELOPMENT,16.0, male , nan ,5.0,2911.0,3.0
+51.0, no ,RESEARCH & DEVELOPMENT,1786.0, female , manager ,2.0,13116.0,3.0
+38.0, nan ,RESEARCH & DEVELOPMENT,803.0, female ,MANUFACTURING DIRECTOR,15.0,5980.0,3.0
+26.0,YES, sales ,1037.0,MALE, sales executive ,2.0,4969.0,3.0
+56.0,YES, research & development ,2032.0, male ,LABORATORY TECHNICIAN,10.0,2339.0,3.0
+45.0, no , research & development ,1712.0, male , healthcare representative ,23.0,10748.0,4.0
+35.0, no ,SALES,1945.0, male ,SALES EXECUTIVE,5.0,5561.0,3.0
+44.0,NO,RESEARCH & DEVELOPMENT,1903.0, male , healthcare representative ,2.0,5033.0,3.0
+42.0,NO, research & development ,, male , manager ,22.0,19232.0,3.0
+51.0,NO, sales ,500.0, female , sales executive ,7.0,,3.0
+48.0,NO,SALES,712.0,MALE,SALES EXECUTIVE,2.0,8120.0,3.0
+31.0, yes ,RESEARCH & DEVELOPMENT,1160.0, male , nan ,2.0,2610.0,3.0
+, no , research & development ,1430.0,FEMALE, research director ,3.0,16422.0,3.0
+40.0, no ,SALES,1740.0,MALE, manager ,21.0,19833.0,3.0
+34.0, nan ,SALES,666.0, female ,SALES REPRESENTATIVE,8.0,,3.0
+30.0,NO,NAN,982.0,MALE, sales executive ,8.0,7264.0,3.0
+32.0,NO,NAN,134.0, male ,RESEARCH SCIENTIST,1.0,,
+39.0, yes , research & development ,1458.0, female ,LABORATORY TECHNICIAN,,3646.0,
+42.0, no , human resources ,1231.0,MALE, human resources ,4.0,6272.0,3.0
+41.0, no , sales ,1815.0,FEMALE, nan ,22.0,10447.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1581.0, female , research scientist ,1.0,2061.0,4.0
+36.0,NO, research & development ,1790.0,MALE,HEALTHCARE REPRESENTATIVE,,,
+34.0, no , research & development ,138.0,FEMALE,RESEARCH SCIENTIST,16.0,4809.0,3.0
+55.0,NO,RESEARCH & DEVELOPMENT,1336.0, female ,MANAGER,19.0,19187.0,3.0
+39.0,NAN,RESEARCH & DEVELOPMENT,1871.0, male ,RESEARCH SCIENTIST,2.0,3902.0,3.0
+46.0,NO, human resources ,, female , nan ,7.0,3423.0,3.0
+55.0, no ,SALES,597.0, female , manager ,10.0,16835.0,4.0
+38.0,NO,HUMAN RESOURCES,1805.0, male ,HUMAN RESOURCES,11.0,2592.0,3.0
+42.0, no , research & development ,477.0, male , healthcare representative ,1.0,6781.0,4.0
+23.0,YES,RESEARCH & DEVELOPMENT,1684.0,MALE, laboratory technician ,5.0,3989.0,3.0
+44.0, yes , research & development ,392.0,MALE,NAN,1.0,3161.0,4.0
+28.0, no , research & development ,395.0,NAN,RESEARCH SCIENTIST,5.0,3310.0,4.0
+42.0, no ,RESEARCH & DEVELOPMENT,1854.0,MALE, research scientist ,6.0,2936.0,4.0
+49.0, no ,RESEARCH & DEVELOPMENT,,MALE, research director ,31.0,19502.0,3.0
+,YES,SALES,,MALE,SALES EXECUTIVE,21.0,,3.0
+40.0,NO, research & development ,281.0,MALE, laboratory technician ,7.0,,3.0
+30.0,NO,SALES,1479.0,MALE, sales executive ,2.0,5301.0,3.0
+45.0, no , research & development ,,MALE,RESEARCH DIRECTOR,0.0,13245.0,3.0
+43.0, no ,RESEARCH & DEVELOPMENT,920.0, female , manufacturing director ,1.0,4765.0,
+36.0, no , research & development ,1847.0, female ,RESEARCH SCIENTIST,1.0,6962.0,4.0
+44.0,NO,RESEARCH & DEVELOPMENT,2020.0, male , research scientist ,4.0,2436.0,3.0
+22.0,NO, research & development ,2007.0, male , research scientist ,3.0,3375.0,3.0
+31.0,NO, research & development ,426.0,MALE, research scientist ,2.0,2695.0,3.0
+33.0,NO, sales ,1477.0, male ,SALES EXECUTIVE,4.0,4373.0,3.0
+26.0,NO,RESEARCH & DEVELOPMENT,1952.0, male ,LABORATORY TECHNICIAN,7.0,,
+21.0,NO, sales ,669.0, male , sales representative ,3.0,3447.0,3.0
+44.0,NO, nan ,874.0, male ,LABORATORY TECHNICIAN,3.0,,4.0
+, no , nan ,544.0, nan , research scientist ,2.0,2654.0,4.0
+20.0,YES, research & development ,701.0, male , research scientist ,1.0,1009.0,3.0
+38.0,NO,RESEARCH & DEVELOPMENT,393.0,MALE, healthcare representative ,2.0,5745.0,3.0
+28.0,NO, human resources ,869.0,MALE,HUMAN RESOURCES,5.0,4936.0,3.0
+31.0,NO, research & development ,1251.0, male , healthcare representative ,6.0,6833.0,3.0
+38.0,NO,SALES,1961.0,MALE, sales representative ,,2858.0,3.0
+32.0,NO, nan ,772.0,MALE, laboratory technician ,,5309.0,3.0
+29.0, no , research & development ,1143.0,FEMALE, research scientist ,7.0,3291.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,332.0,FEMALE,LABORATORY TECHNICIAN,,2232.0,3.0
+40.0, no , research & development ,763.0, female , research scientist ,4.0,2342.0,4.0
+49.0,NO, nan ,1674.0, female , laboratory technician ,2.0,2587.0,
+22.0,YES, nan ,1878.0, male , research scientist ,1.0,2472.0,4.0
+20.0,YES,SALES,1077.0,FEMALE,NAN,2.0,2323.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,1558.0, nan ,NAN,1.0,2451.0,3.0
+35.0,NO, research & development ,2003.0, nan ,LABORATORY TECHNICIAN,2.0,2660.0,3.0
+33.0, yes ,SALES,1758.0, female ,NAN,0.0,8564.0,4.0
+35.0, no , sales ,406.0,MALE, sales executive ,11.0,,3.0
+37.0, no ,RESEARCH & DEVELOPMENT,1161.0,FEMALE,HEALTHCARE REPRESENTATIVE,6.0,5731.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,495.0,MALE, research scientist ,3.0,2201.0,
+56.0, no , sales ,1935.0, female ,SALES EXECUTIVE,,5380.0,3.0
+50.0, nan , research & development ,,MALE,LABORATORY TECHNICIAN,3.0,3690.0,3.0
+46.0, yes , sales ,1869.0, nan , sales executive ,8.0,7314.0,4.0
+54.0, no , research & development ,1520.0,FEMALE,MANAGER,14.0,16032.0,4.0
+55.0,NO,RESEARCH & DEVELOPMENT,1336.0, female ,MANAGER,19.0,19187.0,3.0
+33.0, no , research & development ,,FEMALE, research scientist ,8.0,2909.0,3.0
+42.0,NO, sales ,1171.0, male ,SALES EXECUTIVE,6.0,5155.0,3.0
+31.0, no ,RESEARCH & DEVELOPMENT,246.0, female , research scientist ,4.0,3929.0,
+36.0, yes , sales ,967.0, male ,NAN,16.0,10325.0,3.0
+37.0, no , sales ,626.0, male , sales executive ,,8834.0,3.0
+45.0, no , research & development ,,FEMALE, laboratory technician ,10.0,5769.0,3.0
+38.0,NO,RESEARCH & DEVELOPMENT,1940.0,MALE,RESEARCH SCIENTIST,,4771.0,3.0
+41.0, no ,RESEARCH & DEVELOPMENT,200.0,NAN,LABORATORY TECHNICIAN,,2238.0,4.0
+, nan , research & development ,867.0,FEMALE, nan ,9.0,13826.0,4.0
+37.0,NO, research & development ,1640.0,FEMALE, research scientist ,8.0,3936.0,3.0
+36.0, no , research & development ,1662.0, female , manufacturing director ,3.0,4374.0,3.0
+32.0,NO, nan ,, male , sales executive ,10.0,5396.0,3.0
+35.0, yes , sales ,1380.0,FEMALE,SALES EXECUTIVE,4.0,4614.0,3.0
+39.0, no ,NAN,760.0,FEMALE,HUMAN RESOURCES,8.0,,3.0
+26.0, no , research & development ,792.0,FEMALE, laboratory technician ,,4364.0,3.0
+, no ,RESEARCH & DEVELOPMENT,95.0, male ,RESEARCH SCIENTIST,1.0,2501.0,3.0
+43.0,NO, sales ,327.0, female ,MANAGER,17.0,16064.0,4.0
+38.0, no ,RESEARCH & DEVELOPMENT,837.0,MALE,HEALTHCARE REPRESENTATIVE,4.0,6288.0,3.0
+28.0,NO, sales ,1387.0, male ,SALES EXECUTIVE,5.0,4724.0,3.0
+24.0,NO, research & development ,1981.0,MALE, nan ,4.0,4617.0,3.0
+25.0,NO,SALES,527.0, female , sales executive ,5.0,4487.0,3.0
+31.0, nan ,RESEARCH & DEVELOPMENT,355.0,MALE,LABORATORY TECHNICIAN,5.0,3479.0,3.0
+29.0,NO,RESEARCH & DEVELOPMENT,,MALE,LABORATORY TECHNICIAN,3.0,,3.0
+39.0,NO,RESEARCH & DEVELOPMENT,, male ,LABORATORY TECHNICIAN,10.0,,3.0
+, yes , research & development ,1809.0,MALE,MANUFACTURING DIRECTOR,10.0,,3.0
+31.0,NO, sales ,604.0, male , sales executive ,6.0,6582.0,3.0
+45.0, no , research & development ,1712.0, male , healthcare representative ,23.0,10748.0,4.0
+26.0,NO,RESEARCH & DEVELOPMENT,390.0, male , healthcare representative ,5.0,4741.0,3.0
+35.0, no , research & development ,1704.0, male , research scientist ,5.0,4930.0,
+21.0, no ,RESEARCH & DEVELOPMENT,379.0, male ,RESEARCH SCIENTIST,3.0,3230.0,3.0
+32.0, yes ,RESEARCH & DEVELOPMENT,1939.0,FEMALE,RESEARCH SCIENTIST,4.0,2432.0,3.0
+31.0, nan ,RESEARCH & DEVELOPMENT,1956.0,MALE,RESEARCH SCIENTIST,10.0,5003.0,
+, nan ,RESEARCH & DEVELOPMENT,51.0, female , research scientist ,1.0,3419.0,3.0
+34.0,YES, sales ,,FEMALE,SALES EXECUTIVE,15.0,4599.0,4.0
+38.0,NO,SALES,2041.0,FEMALE, sales executive ,,5343.0,3.0
+38.0, no ,SALES,1582.0, male , sales executive ,9.0,9924.0,3.0
+45.0, no ,RESEARCH & DEVELOPMENT,972.0, male , laboratory technician ,9.0,4447.0,3.0
+29.0,NO, sales ,312.0, nan ,SALES EXECUTIVE,11.0,7918.0,3.0
+28.0,NO,SALES,, female , sales representative ,1.0,2856.0,3.0
+41.0,NO,SALES,534.0, nan ,SALES EXECUTIVE,10.0,8392.0,3.0
+28.0,YES,RESEARCH & DEVELOPMENT,364.0, nan ,LABORATORY TECHNICIAN,0.0,3485.0,3.0
+19.0, nan ,SALES,959.0,MALE, sales representative ,1.0,2121.0,3.0
+28.0, no ,SALES,916.0, male ,SALES EXECUTIVE,4.0,4908.0,3.0
+31.0, no , sales ,947.0,FEMALE, sales executive ,9.0,6932.0,3.0
+44.0, no , human resources ,1683.0, female , human resources ,2.0,,3.0
+58.0, no ,NAN,131.0, male ,SALES EXECUTIVE,37.0,13872.0,3.0
+41.0, no ,RESEARCH & DEVELOPMENT,466.0,MALE, manufacturing director ,5.0,6032.0,3.0
+37.0, no ,RESEARCH & DEVELOPMENT,1440.0, male , nan ,6.0,3500.0,3.0
+35.0,NO, research & development ,1804.0, male ,MANUFACTURING DIRECTOR,7.0,5762.0,3.0
+31.0, no , sales ,1324.0,FEMALE,SALES EXECUTIVE,10.0,9852.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,238.0,MALE,LABORATORY TECHNICIAN,8.0,2088.0,3.0
+34.0, no ,NAN,, nan ,LABORATORY TECHNICIAN,2.0,2661.0,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,1551.0, male ,NAN,1.0,2296.0,3.0
+55.0, no ,RESEARCH & DEVELOPMENT,254.0,MALE,NAN,24.0,18722.0,3.0
+32.0,NO, nan ,1853.0,MALE,SALES EXECUTIVE,0.0,4648.0,3.0
+37.0,NO,RESEARCH & DEVELOPMENT,102.0, male , research director ,5.0,13664.0,3.0
+44.0, no , research & development ,1471.0, male , laboratory technician ,5.0,3162.0,3.0
+36.0,NO,RESEARCH & DEVELOPMENT,1237.0, female ,MANUFACTURING DIRECTOR,7.0,10252.0,4.0
+27.0, no ,RESEARCH & DEVELOPMENT,655.0,FEMALE, research scientist ,5.0,2187.0,3.0
+33.0, yes ,RESEARCH & DEVELOPMENT,780.0,NAN, research scientist ,10.0,2686.0,3.0
+37.0, no ,NAN,1196.0,FEMALE, manufacturing director ,14.0,6474.0,3.0
+39.0, no ,RESEARCH & DEVELOPMENT,1043.0,NAN, manufacturing director ,21.0,10880.0,3.0
+46.0,NAN,SALES,580.0, female ,SALES EXECUTIVE,3.0,9071.0,3.0
+25.0, no ,RESEARCH & DEVELOPMENT,1992.0,MALE,LABORATORY TECHNICIAN,2.0,3977.0,3.0
+40.0, no ,SALES,1598.0,FEMALE, sales executive ,5.0,4639.0,3.0
+43.0, no , nan ,1255.0, male ,RESEARCH DIRECTOR,8.0,19740.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,1513.0,FEMALE, laboratory technician ,3.0,,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,1173.0, male ,LABORATORY TECHNICIAN,4.0,3597.0,4.0
+, no ,SALES,1125.0, male , sales executive ,1.0,7351.0,3.0
+39.0,NO, research & development ,531.0, male ,MANAGER,21.0,,3.0
+29.0, yes ,SALES,1752.0,FEMALE,SALES REPRESENTATIVE,,2760.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,260.0,FEMALE, research scientist ,7.0,,3.0
+,NO, research & development ,1881.0,NAN,LABORATORY TECHNICIAN,10.0,4197.0,3.0
+26.0,YES, human resources ,,FEMALE, human resources ,7.0,2741.0,3.0
+21.0,NAN,RESEARCH & DEVELOPMENT,1623.0,MALE,RESEARCH SCIENTIST,2.0,3117.0,3.0
+58.0, no , research & development ,1308.0, male ,RESEARCH SCIENTIST,2.0,2372.0,3.0
+38.0,NO, research & development ,1760.0, female ,LABORATORY TECHNICIAN,6.0,2468.0,3.0
+28.0,YES,RESEARCH & DEVELOPMENT,440.0,MALE,RESEARCH SCIENTIST,3.0,3464.0,3.0
+36.0, yes , research & development ,90.0, male , research scientist ,,,3.0
+50.0, no , research & development ,491.0, male , nan ,4.0,,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1291.0, male ,RESEARCH SCIENTIST,3.0,3506.0,3.0
+31.0, no , research & development ,, male , research scientist ,6.0,2356.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1621.0, male , research scientist ,16.0,5208.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,691.0, male ,RESEARCH SCIENTIST,17.0,6646.0,3.0
+51.0,NO,RESEARCH & DEVELOPMENT,258.0, female ,HEALTHCARE REPRESENTATIVE,7.0,13734.0,3.0
+34.0, yes ,RESEARCH & DEVELOPMENT,31.0,MALE,RESEARCH SCIENTIST,4.0,2960.0,3.0
+26.0, no ,RESEARCH & DEVELOPMENT,1718.0,MALE,LABORATORY TECHNICIAN,3.0,2305.0,3.0
+30.0,NO, human resources ,1499.0,MALE,HUMAN RESOURCES,5.0,2064.0,4.0
+51.0, no , research & development ,145.0,FEMALE, healthcare representative ,13.0,7484.0,4.0
+30.0, no ,SALES,533.0,FEMALE,NAN,5.0,6577.0,3.0
+,YES,SALES,,MALE, sales executive ,2.0,9907.0,3.0
+45.0,NO,RESEARCH & DEVELOPMENT,264.0,MALE,MANAGER,20.0,16792.0,4.0
+40.0, no ,RESEARCH & DEVELOPMENT,335.0, male ,RESEARCH SCIENTIST,9.0,3319.0,3.0
+39.0,NAN,RESEARCH & DEVELOPMENT,1633.0,FEMALE,MANUFACTURING DIRECTOR,9.0,5042.0,3.0
+42.0, nan ,SALES,936.0,FEMALE, sales executive ,5.0,,
+37.0,NO,RESEARCH & DEVELOPMENT,380.0,NAN, research director ,5.0,13603.0,3.0
+30.0, yes , research & development ,,MALE, research scientist ,1.0,2285.0,4.0
+28.0, yes ,RESEARCH & DEVELOPMENT,19.0, nan ,LABORATORY TECHNICIAN,4.0,2028.0,3.0
+, no , sales ,1824.0, male , manager ,16.0,16291.0,4.0
+, no ,SALES,1478.0, male ,SALES EXECUTIVE,,4759.0,3.0
+46.0, no , nan ,,FEMALE, healthcare representative ,,10527.0,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,643.0,MALE,LABORATORY TECHNICIAN,1.0,2127.0,4.0
+33.0, no , research & development ,1771.0,MALE, nan ,9.0,,
+24.0, no , sales ,1445.0,FEMALE, sales executive ,5.0,4162.0,3.0
+29.0, no ,NAN,793.0, female ,HEALTHCARE REPRESENTATIVE,8.0,4335.0,3.0
+,NO,RESEARCH & DEVELOPMENT,431.0,NAN, healthcare representative ,,13964.0,3.0
+34.0, no ,NAN,847.0, male ,HUMAN RESOURCES,3.0,3737.0,3.0
+27.0, no ,SALES,437.0, male ,SALES EXECUTIVE,5.0,4478.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,274.0, nan ,MANUFACTURING DIRECTOR,2.0,4298.0,3.0
+39.0, no , nan ,909.0,FEMALE,NAN,5.0,5204.0,3.0
+41.0, yes , sales ,248.0,FEMALE,SALES REPRESENTATIVE,4.0,3140.0,4.0
+50.0,NO, research & development ,80.0,FEMALE, nan ,27.0,18740.0,3.0
+24.0,NO, research & development ,1707.0, male , research scientist ,5.0,,3.0
+, nan , nan ,933.0, female , research scientist ,1.0,2318.0,3.0
+38.0, no , nan ,1152.0, male , human resources ,,2844.0,3.0
+49.0,NO,RESEARCH & DEVELOPMENT,1509.0, female , laboratory technician ,3.0,4789.0,4.0
+29.0, no ,SALES,366.0,MALE,NAN,0.0,6644.0,3.0
+,NO,RESEARCH & DEVELOPMENT,1856.0, female ,LABORATORY TECHNICIAN,2.0,2105.0,3.0
+51.0,NO,RESEARCH & DEVELOPMENT,162.0,MALE, research director ,20.0,19537.0,3.0
+29.0, no , sales ,974.0,FEMALE, sales representative ,3.0,2157.0,3.0
+30.0, no ,RESEARCH & DEVELOPMENT,571.0,FEMALE,LABORATORY TECHNICIAN,11.0,2564.0,3.0
+43.0,NO,SALES,,MALE, sales executive ,7.0,,4.0
+45.0,NO, research & development ,452.0,MALE,RESEARCH SCIENTIST,10.0,3697.0,
+37.0,NO,RESEARCH & DEVELOPMENT,,MALE, research scientist ,10.0,,3.0
+26.0, nan , research & development ,1107.0, male , laboratory technician ,1.0,2377.0,4.0
+19.0,YES, sales ,167.0, male , nan ,0.0,1675.0,3.0
+34.0, no ,NAN,1580.0, male ,NAN,2.0,,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,155.0,FEMALE, laboratory technician ,1.0,2835.0,4.0
+54.0,NO, research & development ,1245.0,NAN,NAN,5.0,10502.0,3.0
+53.0,NO,NAN,981.0,NAN,NAN,17.0,14852.0,
+43.0,NO,RESEARCH & DEVELOPMENT,430.0, female , laboratory technician ,8.0,2455.0,3.0
+34.0, no , research & development ,, female , research scientist ,5.0,,4.0
+30.0, no ,RESEARCH & DEVELOPMENT,806.0, nan , laboratory technician ,2.0,3833.0,4.0
+43.0,NO, research & development ,,MALE,RESEARCH SCIENTIST,5.0,2089.0,3.0
+50.0,NO,RESEARCH & DEVELOPMENT,1656.0, female , research director ,,13269.0,3.0
+22.0,NO,RESEARCH & DEVELOPMENT,1605.0, female , research scientist ,4.0,2814.0,3.0
+38.0,NO,RESEARCH & DEVELOPMENT,193.0, female ,RESEARCH SCIENTIST,3.0,4317.0,4.0
+, no ,NAN,1417.0, male , laboratory technician ,7.0,3578.0,3.0
+29.0, no ,NAN,749.0,MALE,SALES REPRESENTATIVE,1.0,2642.0,3.0
+34.0,NAN, nan ,1447.0, female ,LABORATORY TECHNICIAN,5.0,3294.0,
+27.0, no ,RESEARCH & DEVELOPMENT,233.0,MALE, research scientist ,,3058.0,3.0
+58.0, no , research & development ,940.0, female , nan ,6.0,10552.0,3.0
+56.0,NO,RESEARCH & DEVELOPMENT,241.0,FEMALE, research scientist ,2.0,4257.0,3.0
+32.0, no , sales ,,MALE, sales executive ,3.0,4078.0,3.0
+53.0, no , sales ,682.0, female ,SALES EXECUTIVE,14.0,8381.0,4.0
+34.0,NO,RESEARCH & DEVELOPMENT,579.0,MALE, research scientist ,7.0,2768.0,3.0
+52.0, no , sales ,329.0, male , nan ,33.0,19068.0,3.0
+22.0,YES,RESEARCH & DEVELOPMENT,593.0, male , laboratory technician ,2.0,3894.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,,FEMALE, laboratory technician ,9.0,4193.0,3.0
+40.0, no ,NAN,1641.0,NAN, manufacturing director ,4.0,7945.0,3.0
+27.0, no ,RESEARCH & DEVELOPMENT,1244.0, nan ,RESEARCH SCIENTIST,,2235.0,
+32.0,NO, research & development ,2010.0,FEMALE,LABORATORY TECHNICIAN,6.0,2837.0,3.0
+, no , sales ,479.0, female , sales executive ,1.0,6653.0,3.0
+32.0, no ,SALES,436.0,FEMALE,SALES EXECUTIVE,,,3.0
+59.0, no ,HUMAN RESOURCES,321.0,MALE,HUMAN RESOURCES,2.0,2267.0,3.0
+34.0, no , research & development ,1140.0,MALE, manufacturing director ,3.0,4033.0,3.0
+30.0, no ,RESEARCH & DEVELOPMENT,1729.0, male ,RESEARCH SCIENTIST,10.0,2862.0,3.0
+38.0, no ,SALES,1119.0, male ,NAN,,8740.0,3.0
+46.0, no , nan ,1069.0,MALE,RESEARCH DIRECTOR,2.0,19627.0,3.0
+29.0,NO,NAN,, female , healthcare representative ,7.0,,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,247.0,FEMALE, research scientist ,3.0,2311.0,
+33.0, no , nan ,,FEMALE, research scientist ,,3452.0,
+, no ,SALES,707.0, male , sales executive ,3.0,4851.0,4.0
+50.0,YES,SALES,2044.0,MALE, sales executive ,6.0,6728.0,3.0
+,NO,SALES,1349.0, nan ,SALES EXECUTIVE,9.0,4103.0,3.0
+, no , research & development ,616.0, female , healthcare representative ,8.0,,3.0
+53.0, yes , research & development ,1572.0,FEMALE,MANUFACTURING DIRECTOR,33.0,10169.0,3.0
+56.0, no , research & development ,112.0, male , nan ,6.0,7260.0,3.0
+35.0, no ,RESEARCH & DEVELOPMENT,1185.0,MALE,LABORATORY TECHNICIAN,2.0,,3.0
+41.0, nan , sales ,625.0, female , manager ,18.0,16595.0,3.0
+52.0,YES, research & development ,433.0, male , research scientist ,8.0,4941.0,3.0
+31.0, no ,SALES,1453.0, male , sales executive ,13.0,,3.0
+40.0, no , research & development ,1552.0,MALE,HEALTHCARE REPRESENTATIVE,2.0,4069.0,3.0
+37.0, no , research & development ,529.0,FEMALE, research scientist ,13.0,4449.0,3.0
+41.0,NO, research & development ,1392.0, female ,RESEARCH SCIENTIST,6.0,5467.0,3.0
+39.0, no ,SALES,985.0,MALE,SALES EXECUTIVE,8.0,7880.0,3.0
+36.0, no ,RESEARCH & DEVELOPMENT,1659.0,MALE,LABORATORY TECHNICIAN,4.0,2013.0,3.0
+33.0, no , research & development ,969.0,FEMALE, healthcare representative ,5.0,6949.0,3.0
+39.0, no ,SALES,182.0,FEMALE, sales executive ,15.0,5902.0,
+32.0,NO,SALES,125.0, nan , sales executive ,11.0,5010.0,
+50.0, yes ,SALES,2055.0,MALE, nan ,3.0,10854.0,3.0
+36.0, no , nan ,924.0,MALE, healthcare representative ,16.0,6586.0,3.0
+35.0, no ,SALES,1243.0,FEMALE, sales executive ,,10377.0,3.0
+36.0,NO, research & development ,1294.0, female , nan ,16.0,,3.0
+44.0,NO,RESEARCH & DEVELOPMENT,852.0, male ,HEALTHCARE REPRESENTATIVE,5.0,5933.0,3.0
+30.0,NO,RESEARCH & DEVELOPMENT,104.0,MALE,LABORATORY TECHNICIAN,10.0,5126.0,3.0
+41.0,NO, research & development ,1085.0,FEMALE, research scientist ,10.0,3376.0,3.0
+40.0, no , research & development ,1166.0, female , research director ,18.0,13499.0,3.0
+,NO,SALES,1105.0,FEMALE,SALES EXECUTIVE,1.0,6694.0,3.0
+24.0,NO, research & development ,639.0,MALE, research scientist ,6.0,2725.0,3.0
+40.0,NO, research & development ,119.0,MALE,HEALTHCARE REPRESENTATIVE,,13503.0,4.0
+, nan ,RESEARCH & DEVELOPMENT,1666.0,NAN,RESEARCH DIRECTOR,,17603.0,4.0
+55.0,NO,RESEARCH & DEVELOPMENT,1694.0,NAN, research scientist ,4.0,3537.0,3.0
+, nan , sales ,38.0, female ,MANAGER,2.0,18947.0,3.0
+38.0,NO,NAN,1563.0, male , human resources ,6.0,6077.0,
+29.0,YES, research & development ,565.0,FEMALE,NAN,2.0,2546.0,3.0
+30.0,NO, human resources ,184.0, male , human resources ,,6347.0,
+38.0,YES,RESEARCH & DEVELOPMENT,282.0, male , healthcare representative ,1.0,6673.0,3.0
+26.0, no ,RESEARCH & DEVELOPMENT,,FEMALE, research scientist ,1.0,2933.0,3.0
+24.0, no ,RESEARCH & DEVELOPMENT,1725.0, male , laboratory technician ,6.0,3907.0,
+37.0, no ,SALES,900.0, female , sales representative ,5.0,2973.0,3.0
+38.0, no ,RESEARCH & DEVELOPMENT,,FEMALE,RESEARCH SCIENTIST,20.0,2133.0,
+33.0,NO,SALES,677.0, male ,SALES EXECUTIVE,5.0,7104.0,3.0
+42.0, no ,RESEARCH & DEVELOPMENT,894.0, female , laboratory technician ,5.0,5231.0,
+48.0, no ,SALES,595.0, female , sales executive ,9.0,4051.0,3.0
+35.0, no , sales ,805.0, nan ,SALES REPRESENTATIVE,3.0,,3.0
+21.0,NO, sales ,2021.0,MALE, sales representative ,2.0,2380.0,3.0
+50.0, nan ,RESEARCH & DEVELOPMENT,716.0,MALE,LABORATORY TECHNICIAN,20.0,3221.0,3.0
+46.0,NO, research & development ,1857.0, male ,MANUFACTURING DIRECTOR,9.0,8578.0,3.0
+, no ,RESEARCH & DEVELOPMENT,1358.0, male ,LABORATORY TECHNICIAN,3.0,3669.0,
+46.0,NO,RESEARCH & DEVELOPMENT,1080.0,NAN, research scientist ,,4615.0,4.0
+30.0,NO, sales ,475.0,FEMALE,SALES EXECUTIVE,,4736.0,3.0
+24.0,YES,SALES,554.0,FEMALE,SALES REPRESENTATIVE,5.0,3202.0,3.0
+28.0, no , research & development ,1947.0,MALE,RESEARCH SCIENTIST,5.0,2144.0,3.0
+34.0, no ,NAN,1356.0, female ,SALES EXECUTIVE,10.0,6125.0,3.0
+36.0,NO, sales ,1425.0,FEMALE, sales executive ,5.0,,3.0
+34.0,NO,RESEARCH & DEVELOPMENT,1597.0,MALE, healthcare representative ,8.0,5063.0,3.0
+34.0, no ,RESEARCH & DEVELOPMENT,1184.0,MALE,NAN,13.0,5343.0,4.0
+28.0,YES,RESEARCH & DEVELOPMENT,1111.0, male ,LABORATORY TECHNICIAN,1.0,2596.0,3.0
+23.0, no , research & development ,784.0, male , nan ,,3505.0,3.0
+29.0,YES,RESEARCH & DEVELOPMENT,1299.0, female ,LABORATORY TECHNICIAN,,3339.0,
+, yes , research & development ,1127.0, male , healthcare representative ,18.0,12169.0,3.0
+44.0,NAN,SALES,68.0, female ,SALES EXECUTIVE,4.0,,4.0
+,NO,SALES,91.0, female , sales executive ,4.0,,3.0
+33.0, yes , sales ,485.0, female ,SALES REPRESENTATIVE,1.0,2851.0,3.0
+39.0, no , sales ,2056.0,FEMALE, sales executive ,20.0,12031.0,3.0
+, no , research & development ,1115.0,MALE, research scientist ,0.0,2979.0,3.0
+29.0,NO, research & development ,94.0,MALE, nan ,5.0,2703.0,4.0
+30.0,NO, sales ,1428.0, female ,SALES EXECUTIVE,3.0,4779.0,3.0
+42.0, no ,SALES,1943.0,MALE,SALES EXECUTIVE,0.0,5087.0,3.0
+29.0, no ,RESEARCH & DEVELOPMENT,1709.0, nan , laboratory technician ,5.0,2974.0,3.0
+, yes , sales ,896.0, female , sales representative ,3.0,2800.0,3.0
+32.0,NO,SALES,420.0,MALE,NAN,13.0,5484.0,
+37.0, no ,RESEARCH & DEVELOPMENT,1062.0,FEMALE,HEALTHCARE REPRESENTATIVE,4.0,4107.0,3.0
